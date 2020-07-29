@@ -2,6 +2,8 @@
 
 ## Software Engineering
 
+### Professors
+
 - Ana Cavalcanti, University of York, England http://www-users.cs.york.ac.uk/~alcc/
 - Andrea Zisman, Open University, England http://www.open.ac.uk/people/az2276
 - Bruno C. da Silva, Cal Poly SLO, USA https://bcdasilv.github.io/
@@ -27,3 +29,9 @@
 - Silverio Martínez, UPC-BarcelonaTech http://www.essi.upc.edu/~smartinez/
 - Silvia Abrahão, Universitat Politècnica de València, Spain https://sabrahao.wixsite.com/dsic-upv
 - Vivian Genaro Motti, George Mason University, USA https://sites.google.com/site/vivianmotti/welcome
+
+
+### Research institutions
+
+- Daniela Soares Cruzes, SINTEF, Norway https://www.sintef.no/en/all-employees/employee/?empId=4504
+- Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
