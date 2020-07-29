@@ -47,6 +47,7 @@
 - Luis Ceze, Professor, Paul G. Allen School of Computer Science and Engineering https://homes.cs.washington.edu/~luisceze/
 - J. Nelson Amaral, Professor at the Department of Computing Science - University of Alberta https://webdocs.cs.ualberta.ca/~amaral/
 - Daniel Aloise, Associate Professor, Department of Computer Engineering and Software Engineering, Polytechnique Montréal https://www.polymtl.ca/expertises/en/aloise-daniel
+- Jorge Augusto Meira, Research Associate, Interdisciplinary Centre for Security, Reliability and Trust, Université du Luxembourg https://wwwen.uni.lu/snt/people/jorge_augusto_meira 
 
 ## Brazilian Software Engineering PhD students abroad
 
