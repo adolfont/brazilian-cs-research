@@ -35,3 +35,20 @@
 
 - Daniela Soares Cruzes, SINTEF, Norway https://www.sintef.no/en/all-employees/employee/?empId=4504
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
+
+## Other CS Areas
+
+- Diego Aranha, Aarhus University, Denmark https://sites.google.com/site/dfaranha/
+- Mario Costa Sousa, University of Calgary, Canada https://pages.cpsc.ucalgary.ca/~mario/index.htm
+- Rafael Silva, University of Southern California, USA http://rafaelsilva.com/
+- Daniel Medeiros, Victoria University of Wellington, New Zealand https://www.victoria.ac.nz/cmic/about/staff/daniel-medeiros
+- Felipe Campelo, Aston University, England https://www2.aston.ac.uk/eas/staff/a-z/dr-felipe-campelo/Felipe%20Campelo
+- Leonardo de Moura, Senior Principal Researcher at Microsoft Research, Redmond, Washington, USA https://www.microsoft.com/en-us/research/people/leonardo/
+- Luis Ceze, Professor, Paul G. Allen School of Computer Science and Engineering https://homes.cs.washington.edu/~luisceze/
+- J. Nelson Amaral, Professor at the Department of Computing Science - University of Alberta https://webdocs.cs.ualberta.ca/~amaral/
+- Daniel Aloise, Associate Professor, Department of Computer Engineering and Software Engineering, Polytechnique Montréal https://www.polymtl.ca/expertises/en/aloise-daniel
+
+## Brazilian Software Engineering PhD students abroad
+
+- Douglas Lusa Krug, Virginia Commonwealth University https://www.linkedin.com/in/douglas-lusa-krug-b9187422
+- Gustavo do Vale, working at MSG Systems and studying at Saarland University https://www.se.cs.uni-saarland.de/people/vale.php
