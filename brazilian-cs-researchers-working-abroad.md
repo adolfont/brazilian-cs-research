@@ -1,5 +1,7 @@
 # Brazilian Computer Science Researchers working abroad
 
+See https://twitter.com/diasporacientbr
+
 ## Software Engineering
 
 ### Professors
