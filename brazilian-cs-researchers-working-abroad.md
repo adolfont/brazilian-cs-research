@@ -51,6 +51,9 @@ See https://twitter.com/diasporacientbr
 - Daniel Aloise, Associate Professor, Department of Computer Engineering and Software Engineering, Polytechnique Montréal https://www.polymtl.ca/expertises/en/aloise-daniel
 - Jorge Augusto Meira, Research Associate, Interdisciplinary Centre for Security, Reliability and Trust, Université du Luxembourg https://wwwen.uni.lu/snt/people/jorge_augusto_meira 
 - Leandro L. Minku, Lecturer in Intelligent Systems, School of Computer Science, University of Birmingham, UK  https://www.cs.bham.ac.uk/~minkull/
+- Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
+- Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK go.warwick.ac.uk/kalvala
+
 
 ## Brazilian Software Engineering PhD students abroad
 
