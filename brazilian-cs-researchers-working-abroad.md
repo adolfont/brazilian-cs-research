@@ -20,6 +20,7 @@ See https://twitter.com/diasporacientbr
 - Igor Steinmacher, Northern Arizona University, USA https://www.igor.pro.br/
 - João Araújo, Universidade Nova de Lisboa, Portugal https://docentes.fct.unl.pt/p191/
 - Letícia Duboc, University Ramon Llull, Spain https://scholar.google.com/citations?hl=en&user=gXGa494AAAAJ&view_op=list_works&sortby=pubdate https://www.leticiaduboc.com/
+- Leonardo Sousa, Carnegie Mellon University’s (CMU) Silicon Valley location, USA https://ssousaleo.github.io/
 - Lucas Cordeiro, University of Manchester, England https://ssvlab.github.io/lucasccordeiro/
 - Luiz Cysneiros, York University, Canada http://www.yorku.ca/cysneiro/
 - Luiz Fernando Capretz, Western University, Canada https://www.eng.uwo.ca/electrical/faculty/capretz_l/
