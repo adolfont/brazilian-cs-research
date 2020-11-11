@@ -11,6 +11,7 @@ See https://twitter.com/diasporacientbr
 - Bruno C. da Silva, Cal Poly SLO, USA https://bcdasilv.github.io/
 - Daniel Alencar da Costa, University of Otago, New Zealand https://danielcalencar.github.io/
 - Daniel Feitosa, University of Groningen, Netherlands http://www.cs.rug.nl/search/People/DanielFeitosa
+- Daniel Menasce,  George Mason University, USA  https://cs.gmu.edu/~menasce/
 - Emilia Mendes, Blekinge Institute of Technology, Sweden https://www.bth.se/eng/staff/emilia-mendes-eme/
 - Everton Guimaraes, PennState Great Valley, USA https://greatvalley.psu.edu/person/everton-guimaraes
 - Fabio Petrillo, Université du Québec à Chicoutimi, Canada http://fabiopetrillo.com/
