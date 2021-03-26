@@ -41,19 +41,20 @@ See https://twitter.com/diasporacientbr
 
 ## Other CS Areas
 
-- Diego Aranha, Aarhus University, Denmark https://sites.google.com/site/dfaranha/
-- Mario Costa Sousa, University of Calgary, Canada https://pages.cpsc.ucalgary.ca/~mario/index.htm
-- Rafael Silva, University of Southern California, USA http://rafaelsilva.com/
 - Daniel Medeiros, Victoria University of Wellington, New Zealand https://www.victoria.ac.nz/cmic/about/staff/daniel-medeiros
-- Felipe Campelo, Aston University, England https://www2.aston.ac.uk/eas/staff/a-z/dr-felipe-campelo/Felipe%20Campelo
-- Leonardo de Moura, Senior Principal Researcher at Microsoft Research, Redmond, Washington, USA https://www.microsoft.com/en-us/research/people/leonardo/
-- Luis Ceze, Professor, Paul G. Allen School of Computer Science and Engineering https://homes.cs.washington.edu/~luisceze/
-- J. Nelson Amaral, Professor at the Department of Computing Science - University of Alberta https://webdocs.cs.ualberta.ca/~amaral/
 - Daniel Aloise, Associate Professor, Department of Computer Engineering and Software Engineering, Polytechnique Montréal https://www.polymtl.ca/expertises/en/aloise-daniel
+- Diego Aranha, Aarhus University, Denmark https://sites.google.com/site/dfaranha/
+- Felipe Campelo, Aston University, England https://www2.aston.ac.uk/eas/staff/a-z/dr-felipe-campelo/Felipe%20Campelo
+- J. Nelson Amaral, Professor at the Department of Computing Science - University of Alberta https://webdocs.cs.ualberta.ca/~amaral/
 - Jorge Augusto Meira, Research Associate, Interdisciplinary Centre for Security, Reliability and Trust, Université du Luxembourg https://wwwen.uni.lu/snt/people/jorge_augusto_meira 
 - Leandro L. Minku, Lecturer in Intelligent Systems, School of Computer Science, University of Birmingham, UK  https://www.cs.bham.ac.uk/~minkull/
-- Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
+- Leonardo de Moura, Senior Principal Researcher at Microsoft Research, Redmond, Washington, USA https://www.microsoft.com/en-us/research/people/leonardo/
+- Lucas C. Cordeiro, Senior Lecturer (Associate Professor) in the Department of Computer Science at the University of Manchester (UK) https://ssvlab.github.io/lucasccordeiro/
+- Luis Ceze, Professor, Paul G. Allen School of Computer Science and Engineering https://homes.cs.washington.edu/~luisceze/
+- Mario Costa Sousa, University of Calgary, Canada https://pages.cpsc.ucalgary.ca/~mario/index.htm
+- Rafael Silva, University of Southern California, USA http://rafaelsilva.com/
 - Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK https://go.warwick.ac.uk/kalvala
+- Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
 
 
 ## Brazilian Software Engineering PhD students abroad
