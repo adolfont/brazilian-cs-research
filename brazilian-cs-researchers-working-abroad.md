@@ -12,6 +12,7 @@ See https://twitter.com/diasporacientbr
 - Daniel Alencar da Costa, University of Otago, New Zealand https://danielcalencar.github.io/
 - Daniel Feitosa, University of Groningen, Netherlands http://www.cs.rug.nl/search/People/DanielFeitosa
 - Daniel Menasce,  George Mason University, USA  https://cs.gmu.edu/~menasce/menasce-web/menasce.html
+- Daniela S. Cruzes, Professor at the Norwegian University of Science and Technology (NTNU) and Senior Research Scientist at SINTEF https://www.ntnu.edu/employees/dcruzes
 - Emilia Mendes, Blekinge Institute of Technology, Sweden https://www.bth.se/eng/staff/emilia-mendes-eme/
 - Everton Guimaraes, PennState Great Valley, USA https://greatvalley.psu.edu/person/everton-guimaraes
 - Fabio Petrillo, Université du Québec à Chicoutimi, Canada http://fabiopetrillo.com/
@@ -36,7 +37,6 @@ See https://twitter.com/diasporacientbr
 
 ### Research institutions
 
-- Daniela Soares Cruzes, SINTEF, Norway https://www.sintef.no/en/all-employees/employee/?empId=4504
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
 
 ## Other CS Areas
