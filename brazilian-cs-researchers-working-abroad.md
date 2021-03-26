@@ -18,7 +18,6 @@ See https://twitter.com/diasporacientbr
 - Francisco Gomes de Oliveira Neto, Chalmers/Gothenburg University, Sweden https://scholar.google.com.br/citations?user=RDgaTXMAAAAJ&hl=pt-BR https://twitter.com/fgo_neto
 - Gerson Sunyé, University of Nantes, France https://sunye-g.univ-nantes.io/
 - Giancarlo Guizzardi, Free University of Bolzano-Bozen, Italy https://www.unibz.it/en/faculties/computer-science/academic-staff/person/37428-giancarlo-guizzardi
-- Igor Steinmacher, Northern Arizona University, USA https://www.igor.pro.br/
 - João Araújo, Universidade Nova de Lisboa, Portugal https://docentes.fct.unl.pt/p191/
 - Letícia Duboc, University Ramon Llull, Spain https://scholar.google.com/citations?hl=en&user=gXGa494AAAAJ&view_op=list_works&sortby=pubdate https://www.leticiaduboc.com/
 - Leonardo Sousa, Carnegie Mellon University’s (CMU) Silicon Valley location, USA https://ssousaleo.github.io/
