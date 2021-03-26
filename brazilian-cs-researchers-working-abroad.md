@@ -28,7 +28,7 @@ See https://twitter.com/diasporacientbr
 - Marco Aurélio Gerosa, Northern Arizona University, USA https://www.ime.usp.br/~gerosa/
 - Maurício Aniche, TU Delft, Netherlands https://www.mauricioaniche.com/
 - Miriam Capretz, Western University, Canada https://www.eng.uwo.ca/electrical/faculty/capretz_m/index.html
-- Renata Guizzardi, Università di Trento, Italy https://it.linkedin.com/in/renataguizzardi
+- Renata Guizzardi, Assistant Professor at University of Twente https://it.linkedin.com/in/renataguizzardi
 - Ricardo Britto, Ericsson / Blekinge Institute of Technology, Sweden https://2019.icse-conferences.org/profile/ricardobritto
 - Silverio Martínez, UPC-BarcelonaTech http://www.essi.upc.edu/~smartinez/
 - Silvia Abrahão, Universitat Politècnica de València, Spain https://sabrahao.wixsite.com/dsic-upv
