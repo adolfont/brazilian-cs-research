@@ -53,11 +53,15 @@ See https://twitter.com/diasporacientbr
 - Luis Ceze, Professor, Paul G. Allen School of Computer Science and Engineering https://homes.cs.washington.edu/~luisceze/
 - Mario Costa Sousa, University of Calgary, Canada https://pages.cpsc.ucalgary.ca/~mario/index.htm
 - Rafael Silva, University of Southern California, USA http://rafaelsilva.com/
+- Renata Medeiros de Carvalho, Eindhoven University of Technology, The Netherlands https://www.win.tue.nl/~rmedeiro/
 - Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK https://go.warwick.ac.uk/kalvala
 - Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
 
+## Brazilian Software Engineering postdocs
+- Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
 
 ## Brazilian Software Engineering PhD students abroad
 
 - Douglas Lusa Krug, Virginia Commonwealth University https://www.linkedin.com/in/douglas-lusa-krug-b9187422
 - Gustavo do Vale, working at MSG Systems and studying at Saarland University https://www.se.cs.uni-saarland.de/people/vale.php
+- Weslley Torres, Eindhoven University of Technology, The Netherlands https://orcid.org/0000-0003-1793-8452
