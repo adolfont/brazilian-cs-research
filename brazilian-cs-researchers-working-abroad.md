@@ -38,6 +38,7 @@ See https://twitter.com/diasporacientbr
 ### Research institutions
 
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
+- Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
 
 ## Other CS Areas
 
