@@ -66,3 +66,5 @@ See https://twitter.com/diasporacientbr
 - Douglas Lusa Krug, Virginia Commonwealth University https://www.linkedin.com/in/douglas-lusa-krug-b9187422
 - Gustavo do Vale, working at MSG Systems and studying at Saarland University https://www.se.cs.uni-saarland.de/people/vale.php
 - Weslley Torres, Eindhoven University of Technology, The Netherlands https://orcid.org/0000-0003-1793-8452
+- Raquel Ouriques, Blekinge Institute of Technology | BTH · Program in Software Engineering https://www.researchgate.net/profile/Raquel-Ouriques
+
