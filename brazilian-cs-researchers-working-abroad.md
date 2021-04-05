@@ -59,6 +59,7 @@ See https://twitter.com/diasporacientbr
 - Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
 
 ## Brazilian Software Engineering postdocs
+- Diego Elias Costa, Concordia University, Canada https://diegoeliascosta.github.io/
 - Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
 
 ## Brazilian Software Engineering PhD students abroad
