@@ -30,7 +30,6 @@ See https://twitter.com/diasporacientbr
 - Miriam Capretz, Western University, Canada https://www.eng.uwo.ca/electrical/faculty/capretz_m/index.html
 - Renata Guizzardi, Assistant Professor at University of Twente https://it.linkedin.com/in/renataguizzardi
 - Ricardo Britto, Ericsson / Blekinge Institute of Technology, Sweden https://2019.icse-conferences.org/profile/ricardobritto
-- Silverio Martínez, UPC-BarcelonaTech http://www.essi.upc.edu/~smartinez/
 - Silvia Abrahão, Universitat Politècnica de València, Spain https://sabrahao.wixsite.com/dsic-upv
 - Vivian Genaro Motti, George Mason University, USA https://sites.google.com/site/vivianmotti/welcome
 
