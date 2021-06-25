@@ -42,6 +42,7 @@ See https://twitter.com/diasporacientbr
 
 ## Other CS Areas
 
+- Bernardo David,  IT University of Copenhagen, Denmark https://www.bmdavid.com/
 - Daniel Medeiros, Victoria University of Wellington, New Zealand https://www.victoria.ac.nz/cmic/about/staff/daniel-medeiros
 - Daniel Aloise, Associate Professor, Department of Computer Engineering and Software Engineering, Polytechnique Montréal https://www.polymtl.ca/expertises/en/aloise-daniel
 - Diego Aranha, Aarhus University, Denmark https://sites.google.com/site/dfaranha/
@@ -53,6 +54,7 @@ See https://twitter.com/diasporacientbr
 - Lucas C. Cordeiro, Senior Lecturer (Associate Professor) in the Department of Computer Science at the University of Manchester (UK) https://ssvlab.github.io/lucasccordeiro/
 - Luis Ceze, Professor, Paul G. Allen School of Computer Science and Engineering https://homes.cs.washington.edu/~luisceze/
 - Mario Costa Sousa, University of Calgary, Canada https://pages.cpsc.ucalgary.ca/~mario/index.htm
+- Rafael Dowsley, Monash University, Australia https://dowsley.net/
 - Rafael Silva, University of Southern California, USA http://rafaelsilva.com/
 - Renata Medeiros de Carvalho, Eindhoven University of Technology, The Netherlands https://www.win.tue.nl/~rmedeiro/
 - Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK https://go.warwick.ac.uk/kalvala
