@@ -42,6 +42,7 @@ See https://twitter.com/diasporacientbr
 ## Other CS Areas
 
 - Bernardo David,  IT University of Copenhagen, Denmark https://www.bmdavid.com/
+- Daniel Bristot de Oliveira, Red Hat and ReTiS Lab, Italy https://bristot.me/
 - Daniel Medeiros, Victoria University of Wellington, New Zealand https://www.victoria.ac.nz/cmic/about/staff/daniel-medeiros
 - Daniel Aloise, Associate Professor, Department of Computer Engineering and Software Engineering, Polytechnique Montréal https://www.polymtl.ca/expertises/en/aloise-daniel
 - Diego Aranha, Aarhus University, Denmark https://sites.google.com/site/dfaranha/
