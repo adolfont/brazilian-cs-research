@@ -67,6 +67,7 @@ See https://twitter.com/diasporacientbr
 ## Brazilian Software Engineering postdocs
 - Diego Elias Costa, Concordia University, Canada https://diegoeliascosta.github.io/
 - Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
+- Fernanda Madeiral, a postdoctoral researcher at the KTH Royal Institute of Technology (Sweden) https://fermadeiral.github.io/
 
 ## Brazilian CS PhD students abroad
 
