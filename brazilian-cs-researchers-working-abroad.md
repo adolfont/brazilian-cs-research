@@ -20,6 +20,7 @@ See https://twitter.com/diasporacientbr
 - Gerson Sunyé, University of Nantes, France https://sunye-g.univ-nantes.io/
 - Giancarlo Guizzardi, Free University of Bolzano-Bozen, Italy https://www.unibz.it/en/faculties/computer-science/academic-staff/person/37428-giancarlo-guizzardi
 - João Araújo, Universidade Nova de Lisboa, Portugal https://docentes.fct.unl.pt/p191/
+- Joanna C. S. Santos, Incoming Assistant Professor at the University of Notre Dame on Fall 2021, USA https://joannacss.github.io/ https://twitter.com/joannacss
 - Letícia Duboc, University Ramon Llull, Spain https://scholar.google.com/citations?hl=en&user=gXGa494AAAAJ&view_op=list_works&sortby=pubdate https://www.leticiaduboc.com/
 - Leonardo Sousa, Carnegie Mellon University’s (CMU) Silicon Valley location, USA https://ssousaleo.github.io/
 - Lucas Cordeiro, University of Manchester, England https://ssvlab.github.io/lucasccordeiro/
