@@ -71,6 +71,7 @@ See https://twitter.com/diasporacientbr
 
 - April Gonçalve, PhD Student at Roskilde University, Denmark https://cyberglot.space/  https://scholar.google.com/citations?user=bik-6_IAAAAJ&hl=en
 - Douglas Lusa Krug, Virginia Commonwealth University https://www.linkedin.com/in/douglas-lusa-krug-b9187422
+- Gabriela Karoline Michelon, PhD student at Johannes Kepler University Linz  https://gabrielamichelon.github.io/
 - Gustavo do Vale, working at MSG Systems and studying at Saarland University https://www.se.cs.uni-saarland.de/people/vale.php 
 - Leonardo F. R. Ribeiro, TU Darmstadt, Processamento de Linguagem Natural e Deep Learning, https://leoribeiro.github.io/
 - Pedro da Costa Abreu Júnior, PhD student at Purdue University woring with Programming Languages, Proofs and Theorem Provers https://pedroabreu0.github.io/
