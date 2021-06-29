@@ -21,6 +21,7 @@ See https://twitter.com/diasporacientbr
 - Giancarlo Guizzardi, Free University of Bolzano-Bozen, Italy https://www.unibz.it/en/faculties/computer-science/academic-staff/person/37428-giancarlo-guizzardi
 - João Araújo, Universidade Nova de Lisboa, Portugal https://docentes.fct.unl.pt/p191/
 - Joanna C. S. Santos, Incoming Assistant Professor at the University of Notre Dame on Fall 2021, USA https://joannacss.github.io/ https://twitter.com/joannacss
+- Juliana Freire is a Professor of Computer Science and Data Science at New York University https://engineering.nyu.edu/faculty/juliana-freire
 - Letícia Duboc, University Ramon Llull, Spain https://scholar.google.com/citations?hl=en&user=gXGa494AAAAJ&view_op=list_works&sortby=pubdate https://www.leticiaduboc.com/
 - Leonardo Sousa, Carnegie Mellon University’s (CMU) Silicon Valley location, USA https://ssousaleo.github.io/
 - Lucas Cordeiro, University of Manchester, England https://ssvlab.github.io/lucasccordeiro/
@@ -39,6 +40,7 @@ See https://twitter.com/diasporacientbr
 
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
 - Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
+- Ricardo Bianchini, Distinguished Engineer, Microsoft Research  https://www.microsoft.com/en-us/research/people/ricardob/
 
 ## Other CS Areas
 
@@ -78,6 +80,7 @@ See https://twitter.com/diasporacientbr
 - Gustavo do Vale, working at MSG Systems and studying at Saarland University https://www.se.cs.uni-saarland.de/people/vale.php 
 - Leonardo F. R. Ribeiro, TU Darmstadt, Processamento de Linguagem Natural e Deep Learning, https://leoribeiro.github.io/
 - Luciano Marchezan de Paula, PhD Student at Johannes Kepler Universität Linz https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/luciano-marchezan-de-paula
+- Manoel Horta Ribeiro, PhD student, EPFL, Switzerland https://manoelhortaribeiro.github.io
 - Pedro da Costa Abreu Júnior, PhD student at Purdue University woring with Programming Languages, Proofs and Theorem Provers https://pedroabreu0.github.io/
 - Weslley Torres, Eindhoven University of Technology, The Netherlands https://orcid.org/0000-0003-1793-8452
 - Raquel Ouriques, Blekinge Institute of Technology | BTH · Program in Software Engineering https://www.researchgate.net/profile/Raquel-Ouriques
