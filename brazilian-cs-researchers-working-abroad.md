@@ -63,6 +63,7 @@ See https://twitter.com/diasporacientbr
 - Rafael Silva, University of Southern California, USA http://rafaelsilva.com/
 - Renata Medeiros de Carvalho, Eindhoven University of Technology, The Netherlands https://www.win.tue.nl/~rmedeiro/
 - Rodrigo Fonseca, Associate professor of Computer Science, Brown University; Principal Researcher at Microsoft Research, USA http://cs.brown.edu/~rfonseca/
+- Rodrigo Canaan, soon at Cal Poly SLO, USA https://www.rodrigocanaan.com/
 - Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK https://go.warwick.ac.uk/kalvala
 - Talita Perciano, Research Scientist, Computational Research Division, Lawrence Berkeley National Laboratory, USA  https://crd.lbl.gov/departments/data-science-and-technology/data-analytics-and-visualization/staff/talita-perciano/
 - Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
