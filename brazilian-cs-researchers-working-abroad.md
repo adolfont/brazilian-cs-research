@@ -72,6 +72,7 @@ See https://twitter.com/diasporacientbr
 - Diego Elias Costa, Concordia University, Canada https://diegoeliascosta.github.io/
 - Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
 - Fernanda Madeiral, a postdoctoral researcher at the KTH Royal Institute of Technology (Sweden) https://fermadeiral.github.io/
+- Mairieli Wessel, Delft University of Technology, The Netherlands https://mairieli.github.io/
 
 ## Brazilian CS PhD students abroad
 
