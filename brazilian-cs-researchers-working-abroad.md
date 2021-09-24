@@ -43,12 +43,12 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
 - Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
 - Karin Strauss, Senior Principal Research Manager, Microsoft and Affiliate Professor at the Department of Computer Science and Engineering at University of Washington. https://www.microsoft.com/en-us/research/people/kstrauss/
+- Luciana Buriol, Principal Research Scientist at Amazon https://www.linkedin.com/in/luciana-buriol-8a50975/
 - Luiz André Barroso, VP of Engineering, Google Research https://www.barroso.org/ https://research.google/people/LuizBarroso/
 - Marcio Juliato, Staff Research Scientist at Intel Corporation, Automated Vehicles/Autonomous Systems Security https://www.linkedin.com/in/marciojuliato/
 - Marcos Aguilera, Senior Staff Researcher, VMWare,  Palo Alto, CA, US https://research.vmware.com/researchers/marcos-aguilera
 - Rafael Misoczki, Cryptographer at Google https://scholar.google.com/citations?user=lAw5cjkAAAAJ&hl=en https://www.linkedin.com/in/rafael-misoczki-phd-24b33013/
-
-
+- Renato Paes Leme, Research Scientist at Google https://www.linkedin.com/in/renato-paes-leme-05922322/
 - Ricardo Bianchini, Distinguished Engineer, Microsoft Research  https://www.microsoft.com/en-us/research/people/ricardob/
 - Rodrigo de Salvo Braz, Research Scientist at Facebook https://www.linkedin.com/in/rodrigo-de-salvo-braz-412248/
 
@@ -62,6 +62,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Daniel Medeiros, Victoria University of Wellington, New Zealand https://www.victoria.ac.nz/cmic/about/staff/daniel-medeiros
 - Daniel Aloise, Associate Professor, Department of Computer Engineering and Software Engineering, Polytechnique Montréal https://www.polymtl.ca/expertises/en/aloise-daniel
 - Daniela Seabra Oliveira, Associate Professor (IoT Warren B. Nelms Term Professor), Department of Electrical and Computer Engineering, University of Florida, USA https://danielaseabraoliveira.com/
+- David Nemer, Assistant Professor of Media Studies at the University of Virginia, USA https://twitter.com/DavidNemer https://www.dnemer.com/ 
 - Diego Aranha, Aarhus University, Denmark https://sites.google.com/site/dfaranha/
 - Dilma da Silva, Professor, Computer Science & Engineering, Texas A&M University, USA https://engineering.tamu.edu/cse/profiles/da-silva-dilma.html
 - Felipe Campelo, Aston University, England https://www2.aston.ac.uk/eas/staff/a-z/dr-felipe-campelo/Felipe%20Campelo
