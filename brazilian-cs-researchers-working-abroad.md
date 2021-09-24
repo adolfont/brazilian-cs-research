@@ -39,16 +39,19 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 
 ### Research institutions
 
+- Carlos Ernesto Guestrin,  Senior Director of AI and Machine Learning at Apple & Amazon Professor of Machine Learning at University of Washington https://www.linkedin.com/in/carlos-guestrin-5352a869/
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
 - Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
 - Karin Strauss, Senior Principal Research Manager, Microsoft and Affiliate Professor at the Department of Computer Science and Engineering at University of Washington. https://www.microsoft.com/en-us/research/people/kstrauss/
 - Luiz André Barroso, VP of Engineering, Google Research https://www.barroso.org/ https://research.google/people/LuizBarroso/
 - Marcos Aguilera, Senior Staff Researcher, VMWare,  Palo Alto, CA, US https://research.vmware.com/researchers/marcos-aguilera
 - Ricardo Bianchini, Distinguished Engineer, Microsoft Research  https://www.microsoft.com/en-us/research/people/ricardob/
+- Rodrigo de Salvo Braz, Research Scientist at Facebook https://www.linkedin.com/in/rodrigo-de-salvo-braz-412248/
 
 ## Other CS Areas
 
 - Anderson Nascimento, Professor of Cryptology, Information Security and Information Theory, University of Washington https://anderson-nascimento.squarespace.com/ https://directory.tacoma.uw.edu/employee/andclay
+- Artur d'Avila Garcez, Professor of Computer Science at City, University London, UK https://en.wikipedia.org/wiki/Artur_d'Avila_Garcez https://www.city.ac.uk/about/people/academics/artur-davila-garcez http://www.staff.city.ac.uk/~aag/
 - Arturo Bretas, Department of Electrical & Computer Engineering at the University of Florida, USA https://www.ece.ufl.edu/people/faculty/arturo-bretas/
 - Bernardo David,  IT University of Copenhagen, Denmark https://www.bmdavid.com/
 - Daniel Bristot de Oliveira, Red Hat and ReTiS Lab, Italy https://bristot.me/
@@ -61,7 +64,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Ivan De Oliveira Nunes, Assist. Professor of Computing Security at RIT, USA https://twitter.com/IONunes
 - J. Nelson Amaral, Professor at the Department of Computing Science - University of Alberta https://webdocs.cs.ualberta.ca/~amaral/
 - Jorge Augusto Meira, Research Associate, Interdisciplinary Centre for Security, Reliability and Trust, Université du Luxembourg https://wwwen.uni.lu/snt/people/jorge_augusto_meira 
-- Katia Obraczka, Professor of Computer Engineering, UC Santa Cruz, USA http://www.soe.ucsc.edu/~katia/
+- Katia Obraczka, Professor of Computer Engineering, UC Santa Cruz, USA https://en.wikipedia.org/wiki/Katia_Obraczka http://www.soe.ucsc.edu/~katia/
 - Leandro L. Minku, Lecturer in Intelligent Systems, School of Computer Science, University of Birmingham, UK  https://www.cs.bham.ac.uk/~minkull/
 - Leonardo de Moura, Senior Principal Researcher at Microsoft Research, Redmond, Washington, USA https://www.microsoft.com/en-us/research/people/leonardo/
 - Lucas C. Cordeiro, Senior Lecturer (Associate Professor) in the Department of Computer Science at the University of Manchester (UK) https://ssvlab.github.io/lucasccordeiro/
