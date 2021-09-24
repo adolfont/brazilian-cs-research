@@ -19,6 +19,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Francisco Gomes de Oliveira Neto, Chalmers/Gothenburg University, Sweden https://scholar.google.com.br/citations?user=RDgaTXMAAAAJ&hl=pt-BR https://twitter.com/fgo_neto
 - Gerson Sunyé, University of Nantes, France https://sunye-g.univ-nantes.io/
 - Giancarlo Guizzardi, Free University of Bolzano-Bozen, Italy https://www.unibz.it/en/faculties/computer-science/academic-staff/person/37428-giancarlo-guizzardi
+- Henrique Rocha, Assistant Professor, Loyola University Maryland, USA https://www.linkedin.com/in/hscrocha/
 - João Araújo, Universidade Nova de Lisboa, Portugal https://docentes.fct.unl.pt/p191/
 - Joanna C. S. Santos, Incoming Assistant Professor at the University of Notre Dame on Fall 2021, USA https://joannacss.github.io/ https://twitter.com/joannacss
 - Juliana Freire is a Professor of Computer Science and Data Science at New York University https://engineering.nyu.edu/faculty/juliana-freire
