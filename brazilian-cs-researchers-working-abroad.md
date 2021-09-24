@@ -41,28 +41,37 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
 - Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
+- Karin Strauss, Senior Principal Research Manager, Microsoft and Affiliate Professor at the Department of Computer Science and Engineering at University of Washington. https://www.microsoft.com/en-us/research/people/kstrauss/
+- Luiz André Barroso, VP of Engineering, Google Research https://www.barroso.org/ https://research.google/people/LuizBarroso/
+- Marcos Aguilera, Senior Staff Researcher, VMWare,  Palo Alto, CA, US https://research.vmware.com/researchers/marcos-aguilera
 - Ricardo Bianchini, Distinguished Engineer, Microsoft Research  https://www.microsoft.com/en-us/research/people/ricardob/
 
 ## Other CS Areas
 
+- Anderson Nascimento, Professor of Cryptology, Information Security and Information Theory, University of Washington https://anderson-nascimento.squarespace.com/ https://directory.tacoma.uw.edu/employee/andclay
+- Arturo Bretas, Department of Electrical & Computer Engineering at the University of Florida, USA https://www.ece.ufl.edu/people/faculty/arturo-bretas/
 - Bernardo David,  IT University of Copenhagen, Denmark https://www.bmdavid.com/
 - Daniel Bristot de Oliveira, Red Hat and ReTiS Lab, Italy https://bristot.me/
 - Daniel Medeiros, Victoria University of Wellington, New Zealand https://www.victoria.ac.nz/cmic/about/staff/daniel-medeiros
 - Daniel Aloise, Associate Professor, Department of Computer Engineering and Software Engineering, Polytechnique Montréal https://www.polymtl.ca/expertises/en/aloise-daniel
 - Daniela Seabra Oliveira, Associate Professor (IoT Warren B. Nelms Term Professor), Department of Electrical and Computer Engineering, University of Florida, USA https://danielaseabraoliveira.com/
 - Diego Aranha, Aarhus University, Denmark https://sites.google.com/site/dfaranha/
+- Dilma da Silva, Professor, Computer Science & Engineering, Texas A&M University, USA https://engineering.tamu.edu/cse/profiles/da-silva-dilma.html
 - Felipe Campelo, Aston University, England https://www2.aston.ac.uk/eas/staff/a-z/dr-felipe-campelo/Felipe%20Campelo
 - Ivan De Oliveira Nunes, Assist. Professor of Computing Security at RIT, USA https://twitter.com/IONunes
 - J. Nelson Amaral, Professor at the Department of Computing Science - University of Alberta https://webdocs.cs.ualberta.ca/~amaral/
 - Jorge Augusto Meira, Research Associate, Interdisciplinary Centre for Security, Reliability and Trust, Université du Luxembourg https://wwwen.uni.lu/snt/people/jorge_augusto_meira 
+- Katia Obraczka, Professor of Computer Engineering, UC Santa Cruz, USA http://www.soe.ucsc.edu/~katia/
 - Leandro L. Minku, Lecturer in Intelligent Systems, School of Computer Science, University of Birmingham, UK  https://www.cs.bham.ac.uk/~minkull/
 - Leonardo de Moura, Senior Principal Researcher at Microsoft Research, Redmond, Washington, USA https://www.microsoft.com/en-us/research/people/leonardo/
 - Lucas C. Cordeiro, Senior Lecturer (Associate Professor) in the Department of Computer Science at the University of Manchester (UK) https://ssvlab.github.io/lucasccordeiro/
 - Luis Ceze, Professor, Paul G. Allen School of Computer Science and Engineering https://homes.cs.washington.edu/~luisceze/
 - Mario Costa Sousa, University of Calgary, Canada https://pages.cpsc.ucalgary.ca/~mario/index.htm
+-  Marinho Barcellos, Senior Lecturer (Computer Science), University of Waikato https://www.waikato.ac.nz/staff-profiles/people/mbarcell
 - Rafael Dowsley, Monash University, Australia https://dowsley.net/
 - Rafael Silva, University of Southern California, USA http://rafaelsilva.com/
 - Renata Medeiros de Carvalho, Eindhoven University of Technology, The Netherlands https://www.win.tue.nl/~rmedeiro/
+- Renato Figueiredo, University of FLorida, USA https://www.ece.ufl.edu/people/faculty/renato-figueiredo/
 - Rodrigo Canaan,  Cal Poly SLO, USA https://www.rodrigocanaan.com/
 - Rodrigo Fonseca, Associate professor of Computer Science, Brown University; Principal Researcher at Microsoft Research, USA http://cs.brown.edu/~rfonseca/
 - Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK https://go.warwick.ac.uk/kalvala
@@ -81,6 +90,8 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Douglas Lusa Krug, Virginia Commonwealth University https://www.linkedin.com/in/douglas-lusa-krug-b9187422
 - Gabriela Karoline Michelon, PhD student at Johannes Kepler University Linz  https://gabrielamichelon.github.io/
 - Gustavo do Vale, working at MSG Systems and studying at Saarland University https://www.se.cs.uni-saarland.de/people/vale.php 
+- Hugo Sadok, PhD Student, Computer Science Department, Carnegie Mellon University https://hsadok.com/ https://twitter.com/hugosadok
+- Joana M. F. da Trindade, PhD student in EECS at MIT http://joana.fyi https://twitter.com/jmftrindade
 - Leonardo F. R. Ribeiro, TU Darmstadt, Processamento de Linguagem Natural e Deep Learning, https://leoribeiro.github.io/
 - Luciano Marchezan de Paula, PhD Student at Johannes Kepler Universität Linz https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/luciano-marchezan-de-paula
 - Manoel Horta Ribeiro, PhD student, EPFL, Switzerland https://manoelhortaribeiro.github.io
