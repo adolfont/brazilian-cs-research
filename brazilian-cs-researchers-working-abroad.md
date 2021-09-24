@@ -1,6 +1,6 @@
 # Brazilian Computer Science Researchers working abroad
 
-See https://twitter.com/diasporacientbr
+I have created this list/repo to list the many Brazilians working abroad. It used to be only for Software Engineering professos but now it has expanded to other CS areas and to non-professors. To be on this list, the person must be a Brazilian working at an institution and doing reserach-related work.
 
 ## Software Engineering
 
@@ -87,3 +87,8 @@ See https://twitter.com/diasporacientbr
 - Weslley Torres, Eindhoven University of Technology, The Netherlands https://orcid.org/0000-0003-1793-8452
 - Raquel Ouriques, Blekinge Institute of Technology | BTH · Program in Software Engineering https://www.researchgate.net/profile/Raquel-Ouriques
 
+
+
+# See also 
+
+https://twitter.com/diasporacientbr
