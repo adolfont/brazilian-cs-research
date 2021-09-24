@@ -44,7 +44,11 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
 - Karin Strauss, Senior Principal Research Manager, Microsoft and Affiliate Professor at the Department of Computer Science and Engineering at University of Washington. https://www.microsoft.com/en-us/research/people/kstrauss/
 - Luiz André Barroso, VP of Engineering, Google Research https://www.barroso.org/ https://research.google/people/LuizBarroso/
+- Marcio Juliato, Staff Research Scientist at Intel Corporation, Automated Vehicles/Autonomous Systems Security https://www.linkedin.com/in/marciojuliato/
 - Marcos Aguilera, Senior Staff Researcher, VMWare,  Palo Alto, CA, US https://research.vmware.com/researchers/marcos-aguilera
+- Rafael Misoczki, Cryptographer at Google https://scholar.google.com/citations?user=lAw5cjkAAAAJ&hl=en https://www.linkedin.com/in/rafael-misoczki-phd-24b33013/
+
+
 - Ricardo Bianchini, Distinguished Engineer, Microsoft Research  https://www.microsoft.com/en-us/research/people/ricardob/
 - Rodrigo de Salvo Braz, Research Scientist at Facebook https://www.linkedin.com/in/rodrigo-de-salvo-braz-412248/
 
@@ -71,6 +75,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Luis Ceze, Professor, Paul G. Allen School of Computer Science and Engineering https://homes.cs.washington.edu/~luisceze/
 - Mario Costa Sousa, University of Calgary, Canada https://pages.cpsc.ucalgary.ca/~mario/index.htm
 -  Marinho Barcellos, Senior Lecturer (Computer Science), University of Waikato https://www.waikato.ac.nz/staff-profiles/people/mbarcell
+- Paulo Barreto, University of Washington Tacoma https://scholar.google.com/citations?user=kG_95CgAAAAJ&hl=en https://directory.tacoma.uw.edu/employee/pbarreto
 - Rafael Dowsley, Monash University, Australia https://dowsley.net/
 - Rafael Silva, University of Southern California, USA http://rafaelsilva.com/
 - Renata Medeiros de Carvalho, Eindhoven University of Technology, The Netherlands https://www.win.tue.nl/~rmedeiro/
