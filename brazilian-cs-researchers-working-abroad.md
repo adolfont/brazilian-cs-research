@@ -2,9 +2,7 @@
 
 I have created this list/repo to list the many Brazilians working abroad. It used to be only for Software Engineering professos but now it has expanded to other CS areas and to non-professors. To be on this list, the person must be a Brazilian working at an institution and doing reserach-related work.
 
-## Software Engineering
-
-### Professors
+## Software Engineering Professors
 
 - Ana Cavalcanti, University of York, England http://www-users.cs.york.ac.uk/~alcc/
 - Andrea Zisman, Open University, England http://www.open.ac.uk/people/az2276
@@ -37,7 +35,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Vivian Genaro Motti, George Mason University, USA https://sites.google.com/site/vivianmotti/welcome
 
 
-### Research institutions
+## Scientists at Research institutions
 
 - Carlos Ernesto Guestrin,  Senior Director of AI and Machine Learning at Apple & Amazon Professor of Machine Learning at University of Washington https://www.linkedin.com/in/carlos-guestrin-5352a869/
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
@@ -52,7 +50,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Ricardo Bianchini, Distinguished Engineer, Microsoft Research  https://www.microsoft.com/en-us/research/people/ricardob/
 - Rodrigo de Salvo Braz, Research Scientist at Facebook https://www.linkedin.com/in/rodrigo-de-salvo-braz-412248/
 
-## Other CS Areas
+## Professors from other Computer Science Areas
 
 - Anderson Nascimento, Professor of Cryptology, Information Security and Information Theory, University of Washington https://anderson-nascimento.squarespace.com/ https://directory.tacoma.uw.edu/employee/andclay
 - Artur d'Avila Garcez, Professor of Computer Science at City, University London, UK https://en.wikipedia.org/wiki/Artur_d'Avila_Garcez https://www.city.ac.uk/about/people/academics/artur-davila-garcez http://www.staff.city.ac.uk/~aag/
