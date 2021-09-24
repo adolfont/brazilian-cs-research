@@ -83,6 +83,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Leonardo F. R. Ribeiro, TU Darmstadt, Processamento de Linguagem Natural e Deep Learning, https://leoribeiro.github.io/
 - Luciano Marchezan de Paula, PhD Student at Johannes Kepler Universität Linz https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/luciano-marchezan-de-paula
 - Manoel Horta Ribeiro, PhD student, EPFL, Switzerland https://manoelhortaribeiro.github.io
+- Mirela Silva - PhD candidate, University of Florida https://twitter.com/MirelaSilvaUF https://mirelasilva.github.io/
 - Pedro da Costa Abreu Júnior, PhD student at Purdue University woring with Programming Languages, Proofs and Theorem Provers https://pedroabreu0.github.io/
 - Weslley Torres, Eindhoven University of Technology, The Netherlands https://orcid.org/0000-0003-1793-8452
 - Raquel Ouriques, Blekinge Institute of Technology | BTH · Program in Software Engineering https://www.researchgate.net/profile/Raquel-Ouriques
