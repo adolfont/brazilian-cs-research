@@ -58,6 +58,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Arturo Bretas, Department of Electrical & Computer Engineering at the University of Florida, USA https://www.ece.ufl.edu/people/faculty/arturo-bretas/
 - Bernardo David,  IT University of Copenhagen, Denmark https://www.bmdavid.com/
 - Daniel Bristot de Oliveira, Red Hat and ReTiS Lab, Italy https://bristot.me/
+- Daniel G. Costa, Universidade do Porto https://orcid.org/0000-0003-3988-8476
 - Daniel Medeiros, Victoria University of Wellington, New Zealand https://www.victoria.ac.nz/cmic/about/staff/daniel-medeiros
 - Daniel Aloise, Associate Professor, Department of Computer Engineering and Software Engineering, Polytechnique Montréal https://www.polymtl.ca/expertises/en/aloise-daniel
 - Daniela Seabra Oliveira, Associate Professor (IoT Warren B. Nelms Term Professor), Department of Electrical and Computer Engineering, University of Florida, USA https://danielaseabraoliveira.com/
