@@ -83,7 +83,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Rafael Silva, University of Southern California, USA http://rafaelsilva.com/
 - Renata Medeiros de Carvalho, Eindhoven University of Technology, The Netherlands https://www.win.tue.nl/~rmedeiro/
 - Renato Figueiredo, University of FLorida, USA https://www.ece.ufl.edu/people/faculty/renato-figueiredo/
-- Ricardo da Silva Torresm, Professor in Visual Computing at the Norwegian University of Science and Technology (NTNU) https://www.ntnu.edu/employees/ricardo.torres
+- Ricardo da Silva Torres, Professor in Visual Computing at the Norwegian University of Science and Technology (NTNU) https://www.ntnu.edu/employees/ricardo.torres
 - Rodrigo Canaan,  Cal Poly SLO, USA https://www.rodrigocanaan.com/
 - Rodrigo Fonseca, Associate professor of Computer Science, Brown University; Principal Researcher at Microsoft Research, USA http://cs.brown.edu/~rfonseca/
 - Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK https://go.warwick.ac.uk/kalvala
