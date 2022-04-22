@@ -90,6 +90,9 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Rodrigo Fonseca, Associate professor of Computer Science, Brown University; Principal Researcher at Microsoft Research, USA http://cs.brown.edu/~rfonseca/
 - Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK https://go.warwick.ac.uk/kalvala
 
+## Former (or currently on leave) professors working at companies
+
+- Ingrid Nunes - Scrum Master at Hospitality Digital (HD), Düsseldorf, Germany, a Metro AG company. Previously, she was an associate professor of the Instituto de Informática at the Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brazil. https://ingridnunes.github.io/
 
 ## Brazilian Software Engineering postdocs
 - Diego Elias Costa, Concordia University, Canada https://diegoeliascosta.github.io/
