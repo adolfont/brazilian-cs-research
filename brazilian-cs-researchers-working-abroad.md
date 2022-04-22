@@ -38,7 +38,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 ## Scientists at Research institutions
 
 - Adriano A. Santos, Senior Computer Vision Data Scientist at Conception Ro-Main (Quebec — CA). https://www.linkedin.com/in/adrianosantospb/ https://adrianosantospb.medium.com/ 
-- Alexandre Zaghetto, Senior Research Engineer at SOny, em San Jose, California. [LinkedIn](https://www.linkedin.com/in/zaghetto/) [Thread](https://twitter.com/adolfont/status/1517550773294571522)
+- Alexandre Zaghetto, Senior Research Engineer at Sony, San Jose, California, USA. [LinkedIn](https://www.linkedin.com/in/zaghetto/) [Thread](https://twitter.com/adolfont/status/1517550773294571522)
 - Carlos Ernesto Guestrin,  Senior Director of AI and Machine Learning at Apple & Amazon Professor of Machine Learning at University of Washington https://www.linkedin.com/in/carlos-guestrin-5352a869/
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
 - Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
