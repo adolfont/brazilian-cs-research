@@ -14,6 +14,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Emilia Mendes, Blekinge Institute of Technology, Sweden https://www.bth.se/eng/staff/emilia-mendes-eme/
 - Everton Guimaraes, PennState Great Valley, USA https://greatvalley.psu.edu/person/everton-guimaraes
 - Fabio Petrillo, Université du Québec à Chicoutimi, Canada http://fabiopetrillo.com/
+- Fernando Castor, Assistant professor at the Department of Information and Computing Sciences, Utrecht University, The Netherlands https://sites.google.com/a/cin.ufpe.br/castor/
 - Francisco Gomes de Oliveira Neto, Chalmers/Gothenburg University, Sweden https://scholar.google.com.br/citations?user=RDgaTXMAAAAJ&hl=pt-BR https://twitter.com/fgo_neto
 - Gerson Sunyé, University of Nantes, France https://sunye-g.univ-nantes.io/
 - Giancarlo Guizzardi, Free University of Bolzano-Bozen, Italy https://www.unibz.it/en/faculties/computer-science/academic-staff/person/37428-giancarlo-guizzardi
