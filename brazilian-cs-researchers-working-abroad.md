@@ -52,6 +52,8 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Renato Paes Leme, Research Scientist at Google https://www.linkedin.com/in/renato-paes-leme-05922322/
 - Ricardo Bianchini, Distinguished Engineer, Microsoft Research  https://www.microsoft.com/en-us/research/people/ricardob/
 - Rodrigo de Salvo Braz, Research Scientist at Facebook https://www.linkedin.com/in/rodrigo-de-salvo-braz-412248/
+- Talita Perciano, Research Scientist, Computational Research Division, Lawrence Berkeley National Laboratory, USA  https://crd.lbl.gov/departments/data-science-and-technology/data-analytics-and-visualization/staff/talita-perciano/
+- Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
 
 ## Professors from other Computer Science Areas
 
@@ -87,8 +89,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Rodrigo Canaan,  Cal Poly SLO, USA https://www.rodrigocanaan.com/
 - Rodrigo Fonseca, Associate professor of Computer Science, Brown University; Principal Researcher at Microsoft Research, USA http://cs.brown.edu/~rfonseca/
 - Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK https://go.warwick.ac.uk/kalvala
-- Talita Perciano, Research Scientist, Computational Research Division, Lawrence Berkeley National Laboratory, USA  https://crd.lbl.gov/departments/data-science-and-technology/data-analytics-and-visualization/staff/talita-perciano/
-- Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
+
 
 ## Brazilian Software Engineering postdocs
 - Diego Elias Costa, Concordia University, Canada https://diegoeliascosta.github.io/
