@@ -36,7 +36,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Vivian Genaro Motti, George Mason University, USA https://sites.google.com/site/vivianmotti/welcome
 
 
-## Scientists at Research institutions
+## Scientists at Research institutions or Companies
 
 - Adriano A. Santos, Senior Computer Vision Data Scientist at Conception Ro-Main (Quebec — CA). https://www.linkedin.com/in/adrianosantospb/ https://adrianosantospb.medium.com/ 
 - Alexandre Zaghetto, Senior Research Engineer at Sony, San Jose, California, USA. [LinkedIn](https://www.linkedin.com/in/zaghetto/) [Thread](https://twitter.com/adolfont/status/1517550773294571522)
@@ -52,6 +52,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Renato Paes Leme, Research Scientist at Google https://www.linkedin.com/in/renato-paes-leme-05922322/
 - Ricardo Bianchini, Distinguished Engineer, Microsoft Research  https://www.microsoft.com/en-us/research/people/ricardob/
 - Rodrigo de Salvo Braz, Research Scientist at Facebook https://www.linkedin.com/in/rodrigo-de-salvo-braz-412248/
+- Stenio Fernandes - Senior Applied Research Manager - AI/ML - Advanced Technology GroupSenior Applied Research Manager - AI/ML - Advanced Technology Group, ServiceNow, Canada https://www.steniofernandes.com/
 - Talita Perciano, Research Scientist, Computational Research Division, Lawrence Berkeley National Laboratory, USA  https://crd.lbl.gov/departments/data-science-and-technology/data-analytics-and-visualization/staff/talita-perciano/
 - Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
 
