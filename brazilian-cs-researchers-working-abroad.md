@@ -80,7 +80,8 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Lucas C. Cordeiro, Senior Lecturer (Associate Professor) in the Department of Computer Science at the University of Manchester (UK) https://ssvlab.github.io/lucasccordeiro/
 - Luis Ceze, Professor, Paul G. Allen School of Computer Science and Engineering https://homes.cs.washington.edu/~luisceze/
 - Mario Costa Sousa, University of Calgary, Canada https://pages.cpsc.ucalgary.ca/~mario/index.htm
--  Marinho Barcellos, Senior Lecturer (Computer Science), University of Waikato https://www.waikato.ac.nz/staff-profiles/people/mbarcell
+- Marinho Barcellos, Senior Lecturer (Computer Science), University of Waikato https://www.waikato.ac.nz/staff-profiles/people/mbarcell
+- Odinaldo Rodrigues, Senior Lecturer in Computer Science, King's College London, UK https://www.kcl.ac.uk/people/odinaldo-rodrigues
 - Paulo Barreto, University of Washington Tacoma https://scholar.google.com/citations?user=kG_95CgAAAAJ&hl=en https://directory.tacoma.uw.edu/employee/pbarreto
 - Rafael Dowsley, Monash University, Australia https://dowsley.net/
 - Rafael Silva, University of Southern California, USA http://rafaelsilva.com/
