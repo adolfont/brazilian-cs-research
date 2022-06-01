@@ -27,7 +27,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Lucas Cordeiro, University of Manchester, England https://ssvlab.github.io/lucasccordeiro/
 - Luiz Cysneiros, York University, Canada http://www.yorku.ca/cysneiro/
 - Luiz Fernando Capretz, Western University, Canada https://www.eng.uwo.ca/electrical/faculty/capretz_l/
-- Mairieli Wessel, Radbound University, The Netherlands https://mairieli.github.io/
+- Mairieli Wessel, Radboud University, The Netherlands https://mairieli.github.io/
 - Marco Aurélio Gerosa, Northern Arizona University, USA https://www.ime.usp.br/~gerosa/
 - Maurício Aniche, TU Delft, Netherlands https://www.mauricioaniche.com/
 - Miriam Capretz, Western University, Canada https://www.eng.uwo.ca/electrical/faculty/capretz_m/index.html
