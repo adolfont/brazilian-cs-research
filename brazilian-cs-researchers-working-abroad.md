@@ -1,6 +1,6 @@
 # Brazilian Computer Science Researchers working abroad
 
-I have created this list/repo to list the many Brazilians working abroad. It used to be only for Software Engineering professos but now it has expanded to other CS areas and to non-professors. To be on this list, the person must be a Brazilian working at an institution and doing reserach-related work.
+I have created this list/repo to list the many Brazilians working abroad. It used to be only for Software Engineering professos but now it has expanded to other CS areas and to non-professors. To be on this list, the person must be a Brazilian working at an institution and doing research-related work.
 
 ## Software Engineering Professors
 
