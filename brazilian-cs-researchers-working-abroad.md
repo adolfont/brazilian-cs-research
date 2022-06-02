@@ -103,6 +103,10 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
 - Fernanda Madeiral, a postdoctoral researcher at the KTH Royal Institute of Technology (Sweden) https://fermadeiral.github.io/
 
+## Brazilian CS postdocs
+
+- Edson Lucas, post-doctoral research fellow at the Data Intensive Computing Research Lab, Cyprus University of Technology https://twitter.com/edsonrlucas https://edsonrl.github.io/
+
 ## Brazilian CS PhD students abroad
 
 - April Gonçalves, PhD Student at Roskilde University, Denmark https://cyberglot.space/  https://scholar.google.com/citations?user=bik-6_IAAAAJ&hl=en
