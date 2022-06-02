@@ -102,10 +102,13 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Diego Elias Costa, Concordia University, Canada https://diegoeliascosta.github.io/
 - Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
 - Fernanda Madeiral, a postdoctoral researcher at the KTH Royal Institute of Technology (Sweden) https://fermadeiral.github.io/
+- Ronnie E. de Souza Santos, Postdoctoral Fellow in Computer Science, Dalhousie University, Canada https://scholar.google.com/citations?user=wYfnBrYAAAAJ&hl=en  https://www.linkedin.com/in/ronnie-santos/
+
+
 
 ## Brazilian CS postdocs
 
-- Edson Ramiro Lucas Filho, post-doctoral research fellow at the Data Intensive Computing Research Lab, Cyprus University of Technology https://twitter.com/edsonrlucas https://edsonrl.github.io/
+- Edson Ramiro Lucas Filho, post-doctoral research fellow at the Data Intensive Computing Research Lab, Cyprus University of Technology, Cyprus https://twitter.com/edsonrlucas https://edsonrl.github.io/
 
 ## Brazilian CS PhD students abroad
 
