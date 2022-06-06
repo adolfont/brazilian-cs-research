@@ -72,6 +72,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - David Nemer, Assistant Professor of Media Studies at the University of Virginia, USA https://twitter.com/DavidNemer https://www.dnemer.com/ 
 - Diego Aranha, Aarhus University, Denmark https://sites.google.com/site/dfaranha/
 - Dilma da Silva, Professor, Computer Science & Engineering, Texas A&M University, USA https://engineering.tamu.edu/cse/profiles/da-silva-dilma.html
+- Elaine Pimentel, University College London, UK https://sites.google.com/site/elainepimentel/
 - Felipe Campelo, Aston University, England https://www2.aston.ac.uk/eas/staff/a-z/dr-felipe-campelo/Felipe%20Campelo
 - Ivan De Oliveira Nunes, Assist. Professor of Computing Security at RIT, USA https://twitter.com/IONunes
 - J. Nelson Amaral, Professor at the Department of Computing Science - University of Alberta https://webdocs.cs.ualberta.ca/~amaral/
