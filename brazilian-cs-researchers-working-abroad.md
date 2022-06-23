@@ -93,6 +93,8 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Ricardo da Silva Torres, Professor in Visual Computing at the Norwegian University of Science and Technology (NTNU) https://www.ntnu.edu/employees/ricardo.torres
 - Rodrigo Canaan,  Cal Poly SLO, USA https://www.rodrigocanaan.com/
 - Rodrigo Fonseca, Associate professor of Computer Science, Brown University; Principal Researcher at Microsoft Research, USA http://cs.brown.edu/~rfonseca/
+- Ronnie E. de Souza Santos, Assistant Professor in Business Analytics (tenure-track) at the University of Cape Breton, Canada https://scholar.google.com/citations?user=wYfnBrYAAAAJ&hl=en  https://www.linkedin.com/in/ronnie-santos/ https://twitter.com/softwaronnie
+
 - Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK https://go.warwick.ac.uk/kalvala
 
 ## Former (or currently on leave) professors working at companies
@@ -103,7 +105,6 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Diego Elias Costa, Concordia University, Canada https://diegoeliascosta.github.io/
 - Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
 - Fernanda Madeiral, a postdoctoral researcher at the KTH Royal Institute of Technology (Sweden) https://fermadeiral.github.io/
-- Ronnie E. de Souza Santos, Postdoctoral Fellow in Computer Science, Dalhousie University, Canada https://scholar.google.com/citations?user=wYfnBrYAAAAJ&hl=en  https://www.linkedin.com/in/ronnie-santos/
 
 
 
