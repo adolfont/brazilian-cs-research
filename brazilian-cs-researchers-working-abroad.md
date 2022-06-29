@@ -35,6 +35,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Renata Guizzardi, Assistant Professor at University of Twente https://it.linkedin.com/in/renataguizzardi
 - Ricardo Britto, Ericsson / Blekinge Institute of Technology, Sweden https://2019.icse-conferences.org/profile/ricardobritto
 - Silvia Abrahão, Universitat Politècnica de València, Spain https://sabrahao.wixsite.com/dsic-upv
+- Thiago Ferreira, Assistant Professor at University of Michigan-Flint, USA https://thiagodonferreira.vercel.app/
 - Vivian Genaro Motti, George Mason University, USA https://sites.google.com/site/vivianmotti/welcome
 
 
