@@ -48,6 +48,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
 - Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
 - Karin Strauss, Senior Principal Research Manager, Microsoft and Affiliate Professor at the Department of Computer Science and Engineering at University of Washington. https://www.microsoft.com/en-us/research/people/kstrauss/
+- Lasaro Camargos, Principal Engineer at Commvault, US (previously a professor at UFU) https://www.linkedin.com/in/lasaro/
 - Luciana Buriol, Principal Research Scientist at Amazon https://www.linkedin.com/in/luciana-buriol-8a50975/
 - Luiz André Barroso, VP of Engineering, Google Research https://www.barroso.org/ https://research.google/people/LuizBarroso/
 - Marcio Juliato, Staff Research Scientist at Intel Corporation, Automated Vehicles/Autonomous Systems Security https://www.linkedin.com/in/marciojuliato/
