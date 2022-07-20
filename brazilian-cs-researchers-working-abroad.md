@@ -116,6 +116,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 ## Brazilian CS postdocs
 
 - Edson Ramiro Lucas Filho, post-doctoral research fellow at the Data Intensive Computing Research Lab, Cyprus University of Technology, Cyprus https://twitter.com/edsonrlucas https://edsonrl.github.io/
+- Wesley Klewerton Guez Assunção, Postdoctoral researcher / University Assistant at Johannes Kepler University Linz (JKU), Austria https://wesleyklewerton.github.io/
 
 ## Brazilian CS PhD students abroad
 
