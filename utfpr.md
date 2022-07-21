@@ -32,3 +32,12 @@
 - [RICARDO DE LIMA RIBEIRO](https://www.in.gov.br/web/dou/-/portaria-n-678-de-25-de-maio-de-2020-258916432)
 - [JAIME DA COSTA CEDRAN](https://www.in.gov.br/web/dou/-/portaria-n-1.231-de-19-de-outubro-de-2020-284463674)
 - [ANDERSON CHAVES CARNIEL](https://www.in.gov.br/web/dou/-/portaria-n-1.511-de-4-de-dezembro-de-2020-292985018) - Computação - Doiz Vizinhos - Foi para a UFSCAR.
+
+
+## 2019
+
+- [WOLNEY EDIRLEY GONCALVES BETIOL](https://www.in.gov.br/web/dou/-/portaria-n-1.074-de-17-de-junho-de-2019-164333766) - Curitiba - Co-fundador e Presidente do Conselho de Administração da Bematech.
+- [MARCELO VICTOR WUST ZIBETTI](https://www.in.gov.br/web/dou/-/portaria-n-1.144-de-1-de-julho-de-2019-187443913) - Curitiba - Agora [Assistant Professor at NYU School of Medicine](https://www.linkedin.com/in/marcelo-victor-w%C3%BCst-zibetti-a2562a5/)
+- [ANA MARIA VELEZ ESCALLON](https://www.in.gov.br/web/dou/-/portaria-n-1.279-de-15-de-julho-de-2019-196333602) - Engenharia Química - Toledo 
+- [LAIO ORIEL SEMAN](https://www.in.gov.br/web/dou/-/portaria-n-1359-de-19-de-julho-de-2019-201851063) - Engenharia Elétrica - Apucarana - Agora [professor na UNIVALI](https://www.linkedin.com/in/laio-seman/)
+
