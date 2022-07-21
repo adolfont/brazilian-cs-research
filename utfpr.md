@@ -22,5 +22,5 @@
 - [YURI KASZUBOWSKI LOPES](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-818-de-20-de-maio-de-2021-321531080) - Computação - Dois Vizinhos. Foi para a UDESC Joinville.
 - [MANOEL DENIS COSTA FERREIRA](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-800-de-12-de-maio-de-2021-320670123) - Apucarana 
 - [FILIPE ROSEIRO COGO](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-529-de-30-de-marco-de-2021-311401881) - Coputação - Campo Mourão https://www.filipecogo.pro/ 
-- [MARINA ROCHA PINTO PORTELA NUNES](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-510-de-25-de-marco-de-2021-311137785) - Pato Branco
+- [MARINA ROCHA PINTO PORTELA NUNES](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-510-de-25-de-marco-de-2021-311137785) - Engenharia Civil - Pato Branco
 - Wesley Assunção - Computação - Toledo. Destino: JKU Linz Áustria ([exoneração](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-92-de-21-de-janeiro-de-2021-300779236))
