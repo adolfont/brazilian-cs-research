@@ -56,7 +56,7 @@ Como obtive?
 ## 2018 
 
 - DANILO HERNANE SPATTI - Cornélio Procópio https://www.in.gov.br/web/dou/-/portaria-n-297-de-26-de-fevereiro-de-2018-5245693
-- GLEISSON ROBERTO SCHMIDT - Filosofia - Curitiba https://www.in.gov.br/web/dou/-/portaria-n-574-de-2-de-abril-de-2018-9139687 https://www.linkedin.com/in/gleisson-schmidt-89459721/
+- GLEISSON ROBERTO SCHMIDT - Filosofia - Curitiba https://www.in.gov.br/web/dou/-/portaria-n-574-de-2-de-abril-de-2018-9139687 https://www.linkedin.com/in/gleisson-schmidt-89459721/. Agora trabalha em Paroisse Évangélique Luthérienne Saint Sauveur, Paris, França.
 - JEAN PAULO MARTINS - Computação - Pato Branco https://www.in.gov.br/web/dou/-/portaria-n-1-072-de-14-de-junho-de-2018-26370844. Agora: Senior Researcher na Ericsson https://br.linkedin.com/in/jean-martins-b5b133135
 - MARCEL JOLY - Francisco Beltrão https://www.in.gov.br/web/dou/-/portaria-n-1-529-de-21-de-agosto-de-2018-38172322
 - LETICIA KNECHTEL PROCOPIAK - Curitiba https://www.in.gov.br/web/dou/-/portaria-n-1-642-de-11-de-setembro-de-2018-40688557. Agora: https://www.izazillipersona.com/cartas-curitiba-lll/sou-a-primeira-curitibana-da-familia-conta-leticia-knechtel-procopiak/
