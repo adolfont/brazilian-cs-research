@@ -1,4 +1,4 @@
-# Apenas UTFPR (várias áreas)
+# Exonerações a pedido na UTFPR (várias áreas)
 
 Como obtive?
 
