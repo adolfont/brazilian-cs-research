@@ -24,3 +24,11 @@
 - [FILIPE ROSEIRO COGO](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-529-de-30-de-marco-de-2021-311401881) - Computação - Campo Mourão https://www.filipecogo.pro/ 
 - [MARINA ROCHA PINTO PORTELA NUNES](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-510-de-25-de-marco-de-2021-311137785) - Engenharia Civil - Pato Branco
 - Wesley Assunção - Computação - Toledo. Destino: JKU Linz Áustria ([exoneração](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-92-de-21-de-janeiro-de-2021-300779236))
+
+## 2020
+
+- [EGLANTINE JOCELYNE CHRISTINE GUELY COSTA](https://www.in.gov.br/web/dou/-/portaria-n-182-de-12-de-fevereiro-de-2020-243336578)
+- [YUMI YAMAWAKI](https://www.in.gov.br/web/dou/-/portaria-n-248-de-3-de-marco-de-2020-246515267)
+- [RICARDO DE LIMA RIBEIRO](https://www.in.gov.br/web/dou/-/portaria-n-678-de-25-de-maio-de-2020-258916432)
+- [JAIME DA COSTA CEDRAN](https://www.in.gov.br/web/dou/-/portaria-n-1.231-de-19-de-outubro-de-2020-284463674)
+- [ANDERSON CHAVES CARNIEL](https://www.in.gov.br/web/dou/-/portaria-n-1.511-de-4-de-dezembro-de-2020-292985018)
