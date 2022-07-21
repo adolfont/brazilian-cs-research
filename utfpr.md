@@ -41,3 +41,7 @@
 - [ANA MARIA VELEZ ESCALLON](https://www.in.gov.br/web/dou/-/portaria-n-1.279-de-15-de-julho-de-2019-196333602) - Engenharia Química - Toledo 
 - [LAIO ORIEL SEMAN](https://www.in.gov.br/web/dou/-/portaria-n-1359-de-19-de-julho-de-2019-201851063) - Engenharia Elétrica - Apucarana - Agora [professor na UNIVALI](https://www.linkedin.com/in/laio-seman/)
 
+
+## 2018 
+
+- DANILO HERNANE SPATTI - Cornélio Procópio https://www.in.gov.br/web/dou/-/portaria-n-297-de-26-de-fevereiro-de-2018-5245693
