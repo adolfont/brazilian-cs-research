@@ -1,5 +1,16 @@
 # Apenas UTFPR (várias áreas)
 
+Como obtive?
+
+1. Acessar o [DOU](https://www.in.gov.br/inicio) e colocar, no campo de busca, "exonerar, a pedido, a partir de" 
+2. Em "Pesquisa Avançada" colocar a data de início de de fim (ex. 01/01/2018 e 31/12/2018)
+2. Selecionar como "Organização Principal" o "Ministério da Educação"
+3. Selecionar como "Organização Subordinada" a "Universidade Tecnológica Federal do Paraná"
+4. Pesquisar
+5. Clicar em "Inverter Ordem"
+
+[link direto 2018](https://www.in.gov.br/consulta/-/buscar/dou?q=%22++exonerar%2C+a+pedido%2C+a+partir+de%22&s=do2&exactDate=personalizado&sortType=0&delta=20&publishFrom=01%2F01%2F2018&publishTo=31%2F12%2F2018&reverseSort=1&orgPrin=Minist%C3%A9rio+da+Educa%C3%A7%C3%A3o&orgSub=Universidade+Tecnol%C3%B3gica+Federal+do+Paran%C3%A1)
+
 ## 2022
 
 - Igor Fábio Steinmacher - Computação - Campo Mourão - julho 2022. Destino: Northern Arizona University [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-1.233-de-18-de-julho-de-2022-416982541)
@@ -45,3 +56,9 @@
 ## 2018 
 
 - DANILO HERNANE SPATTI - Cornélio Procópio https://www.in.gov.br/web/dou/-/portaria-n-297-de-26-de-fevereiro-de-2018-5245693
+- GLEISSON ROBERTO SCHMIDT - Curitiba https://www.in.gov.br/web/dou/-/portaria-n-574-de-2-de-abril-de-2018-9139687
+- JEAN PAULO MARTINS - Pato Branco https://www.in.gov.br/web/dou/-/portaria-n-1-072-de-14-de-junho-de-2018-26370844
+- MARCEL JOLY - Francisco Beltrão https://www.in.gov.br/web/dou/-/portaria-n-1-529-de-21-de-agosto-de-2018-38172322
+- LETICIA KNECHTEL PROCOPIAK - Curitiba https://www.in.gov.br/web/dou/-/portaria-n-1-642-de-11-de-setembro-de-2018-40688557
+- FABIANA CRISTINA MAZETTO DOS SANTOS - Guarapuava https://www.in.gov.br/web/dou/-/portaria-n-1-777-de-3-de-outubro-de-2018-44309567
+- JEFFERSON STAFUSA ELIAS PORTELA - Física - Pato Branco https://www.in.gov.br/web/dou/-/portaria-n-1-852-de-11-de-outubro-de-2018-45577258
