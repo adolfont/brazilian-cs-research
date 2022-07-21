@@ -8,7 +8,7 @@
 - Ismael Chiamenti - Eletrotécnica - Curitiba ([exoneração](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-1.009-de-20-de-junho-de-2022-410075894))
 - ANDERSON CATAPAN - Administração - Curitiba [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-984-de-13-de-junho-de-2022-408467427). Agora CEO da [Future Publishers Group](https://archive.is/keULV)
 - RODRIGO CORREA DA SILVA - Engenharia Mecânica - Londrina [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-343-de-10-de-marco-de-2022-386147203)
-- EDUARDO BITTENCOURT SYDNEY - ? - Ponta Grossa [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-271-de-4-de-marco-de-2022-385195245)
+- EDUARDO BITTENCOURT SYDNEY - Bioprocessos - Ponta Grossa [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-271-de-4-de-marco-de-2022-385195245) - Agora [CEO Mush (mush.co)](https://www.linkedin.com/in/eduardo-bittencourt-sydney-7297502b)
 
 
 ### Não publicados no DOU ainda
