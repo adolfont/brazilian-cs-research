@@ -57,8 +57,8 @@ Como obtive?
 
 - DANILO HERNANE SPATTI - Cornélio Procópio https://www.in.gov.br/web/dou/-/portaria-n-297-de-26-de-fevereiro-de-2018-5245693
 - GLEISSON ROBERTO SCHMIDT - Curitiba https://www.in.gov.br/web/dou/-/portaria-n-574-de-2-de-abril-de-2018-9139687
-- JEAN PAULO MARTINS - Pato Branco https://www.in.gov.br/web/dou/-/portaria-n-1-072-de-14-de-junho-de-2018-26370844
+- JEAN PAULO MARTINS - Computação - Pato Branco https://www.in.gov.br/web/dou/-/portaria-n-1-072-de-14-de-junho-de-2018-26370844. Agora: Senior Researcher na Ericsson https://br.linkedin.com/in/jean-martins-b5b133135
 - MARCEL JOLY - Francisco Beltrão https://www.in.gov.br/web/dou/-/portaria-n-1-529-de-21-de-agosto-de-2018-38172322
-- LETICIA KNECHTEL PROCOPIAK - Curitiba https://www.in.gov.br/web/dou/-/portaria-n-1-642-de-11-de-setembro-de-2018-40688557
+- LETICIA KNECHTEL PROCOPIAK - Curitiba https://www.in.gov.br/web/dou/-/portaria-n-1-642-de-11-de-setembro-de-2018-40688557. Agora: https://www.izazillipersona.com/cartas-curitiba-lll/sou-a-primeira-curitibana-da-familia-conta-leticia-knechtel-procopiak/
 - FABIANA CRISTINA MAZETTO DOS SANTOS - Guarapuava https://www.in.gov.br/web/dou/-/portaria-n-1-777-de-3-de-outubro-de-2018-44309567
 - JEFFERSON STAFUSA ELIAS PORTELA - Física - Pato Branco https://www.in.gov.br/web/dou/-/portaria-n-1-852-de-11-de-outubro-de-2018-45577258
