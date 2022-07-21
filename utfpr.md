@@ -10,7 +10,7 @@
 - RODRIGO CORREA DA SILVA - Engenharia Mecânica - Londrina [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-343-de-10-de-marco-de-2022-386147203)
 - EDUARDO BITTENCOURT SYDNEY - Bioprocessos - Ponta Grossa [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-271-de-4-de-marco-de-2022-385195245) - Agora [CEO da Mush](https://www.linkedin.com/in/eduardo-bittencourt-sydney-7297502b)  http://mush.eco
 - MORGANA SUSZEK GONCALVES - Engenharia Químíca/Agrícola - Campo Mourão [{exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-212-de-21-de-fevereiro-de-2022-382362244) - Agora [Franqueada Virtuosa Unidade Campo Mourão/PR?](https://archive.is/zQ4te)
-- CASSIANO MORO PIEKARSKI - Engenharia de Produção - Ponta Grossa - [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-155-de-4-de-fevereiro-de-2022-379492185) Agora [Chief Strategy Officer na Inbix Ventures](https://www.linkedin.com/in/cassiano-moro-piekarski/)
+- CASSIANO MORO PIEKARSKI - Engenharia de Produção - Ponta Grossa - [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-155-de-4-de-fevereiro-de-2022-379492185) Agora [Chief Strategy Officer na Inbix Ventures e Inovação e ESG na KMM](https://www.linkedin.com/in/cassiano-moro-piekarski/)
 
 ### Não publicados no DOU ainda
 - Ana Paula Chaves Steinmacher - Computação - Campo Mourão -  julho 2022. Destino: ???
