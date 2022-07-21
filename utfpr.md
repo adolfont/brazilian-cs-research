@@ -31,4 +31,4 @@
 - [YUMI YAMAWAKI](https://www.in.gov.br/web/dou/-/portaria-n-248-de-3-de-marco-de-2020-246515267)
 - [RICARDO DE LIMA RIBEIRO](https://www.in.gov.br/web/dou/-/portaria-n-678-de-25-de-maio-de-2020-258916432)
 - [JAIME DA COSTA CEDRAN](https://www.in.gov.br/web/dou/-/portaria-n-1.231-de-19-de-outubro-de-2020-284463674)
-- [ANDERSON CHAVES CARNIEL](https://www.in.gov.br/web/dou/-/portaria-n-1.511-de-4-de-dezembro-de-2020-292985018)
+- [ANDERSON CHAVES CARNIEL](https://www.in.gov.br/web/dou/-/portaria-n-1.511-de-4-de-dezembro-de-2020-292985018) - Computação - Doiz Vizinhos - Foi para a UFSCAR.
