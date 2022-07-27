@@ -24,7 +24,8 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - João Araújo, Universidade Nova de Lisboa, Portugal https://docentes.fct.unl.pt/p191/
 - Joanna C. S. Santos, University of Notre Dame, USA https://joannacss.github.io/ https://twitter.com/joannacss
 - Juliana Freire is a Professor of Computer Science and Data Science at New York University https://engineering.nyu.edu/faculty/juliana-freire
-- Letícia Duboc, University Ramon Llull, Spain https://scholar.google.com/citations?hl=en&user=gXGa494AAAAJ&view_op=list_works&sortby=pubdate https://www.leticiaduboc.com/
+- Letícia Duboc, University Ramon Llull, Spain https://scholar.google.com/citations?hl=en&user=gXGa494AAAAJ&view_op=list_works&sortby=pubdate 
+https://www.linkedin.com/in/leticiaduboc
 - Leonardo Sousa, Carnegie Mellon University’s (CMU) Silicon Valley location, USA https://ssousaleo.github.io/
 - Lucas Cordeiro, University of Manchester, England https://ssvlab.github.io/lucasccordeiro/
 - Luiz Cysneiros, York University, Canada http://www.yorku.ca/cysneiro/
