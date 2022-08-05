@@ -11,6 +11,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Daniel Feitosa, University of Groningen, Netherlands http://www.cs.rug.nl/search/People/DanielFeitosa
 - Daniel Menasce,  George Mason University, USA  https://cs.gmu.edu/~menasce/menasce-web/menasce.html
 - Daniela S. Cruzes, Professor at the Norwegian University of Science and Technology (NTNU) and Senior Research Scientist at SINTEF https://www.ntnu.edu/employees/dcruzes
+- Diego Elias Costa, UQAM | Université du Québec à Montréal, Canada https://diegoeliascosta.github.io/
 - Emilia Mendes, Blekinge Institute of Technology, Sweden https://www.bth.se/eng/staff/emilia-mendes-eme/
 - Everton Guimaraes, PennState Great Valley, USA https://greatvalley.psu.edu/person/everton-guimaraes
 - Fabio Petrillo, École de Technologie Supérieure (ÉTS), Canada http://fabiopetrillo.com/
@@ -48,7 +49,6 @@ https://www.linkedin.com/in/leticiaduboc
 - Alexandre Zaghetto, Senior Research Engineer at Sony, San Jose, California, USA. [LinkedIn](https://www.linkedin.com/in/zaghetto/) [Thread](https://twitter.com/adolfont/status/1517550773294571522)
 - Bruno Sielly Jales Costa, Software Engineer - Machine Learning at Facebook https://www.linkedin.com/in/bruno-costa-32880964/ https://scholar.google.com/citations?hl=en&user=XZw3P-IAAAAJ&view_op=list_works&sortby=pubdate
 - Carlos Ernesto Guestrin,  Senior Director of AI and Machine Learning at Apple & Amazon Professor of Machine Learning at University of Washington https://www.linkedin.com/in/carlos-guestrin-5352a869/
-- Diego Elias Costa, UQAM | Université du Québec à Montréal, Canada https://diegoeliascosta.github.io/
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
 - Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
 - Karin Strauss, Senior Principal Research Manager, Microsoft and Affiliate Professor at the Department of Computer Science and Engineering at University of Washington. https://www.microsoft.com/en-us/research/people/kstrauss/
