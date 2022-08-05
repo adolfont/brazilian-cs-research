@@ -48,6 +48,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Alexandre Zaghetto, Senior Research Engineer at Sony, San Jose, California, USA. [LinkedIn](https://www.linkedin.com/in/zaghetto/) [Thread](https://twitter.com/adolfont/status/1517550773294571522)
 - Bruno Sielly Jales Costa, Software Engineer - Machine Learning at Facebook https://www.linkedin.com/in/bruno-costa-32880964/ https://scholar.google.com/citations?hl=en&user=XZw3P-IAAAAJ&view_op=list_works&sortby=pubdate
 - Carlos Ernesto Guestrin,  Senior Director of AI and Machine Learning at Apple & Amazon Professor of Machine Learning at University of Washington https://www.linkedin.com/in/carlos-guestrin-5352a869/
+- Diego Elias Costa, UQAM | Université du Québec à Montréal, Canada https://diegoeliascosta.github.io/
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
 - Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
 - Karin Strauss, Senior Principal Research Manager, Microsoft and Affiliate Professor at the Department of Computer Science and Engineering at University of Washington. https://www.microsoft.com/en-us/research/people/kstrauss/
@@ -108,7 +109,6 @@ https://www.linkedin.com/in/leticiaduboc
 - Ingrid Nunes - Scrum Master at Hospitality Digital (HD), Düsseldorf, Germany, a Metro AG company. Previously, she was an associate professor of the Instituto de Informática at the Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brazil. https://ingridnunes.github.io/
 
 ## Brazilian Software Engineering postdocs
-- Diego Elias Costa, Concordia University, Canada https://diegoeliascosta.github.io/
 - Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
 - Fernanda Madeiral, a postdoctoral researcher at the KTH Royal Institute of Technology (Sweden) https://fermadeiral.github.io/
 
