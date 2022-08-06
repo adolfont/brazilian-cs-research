@@ -109,7 +109,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Ingrid Nunes - Scrum Master at Hospitality Digital (HD), Düsseldorf, Germany, a Metro AG company. Previously, she was an associate professor of the Instituto de Informática at the Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brazil. https://ingridnunes.github.io/
 
 ## Brazilian Software Engineering postdocs
-- Breno Dantas Cruz, Postdoc at Laboratory for Software Design, Iowa State University https://www.linkedin.com/in/brenodcruz/
+- Breno Dantas Cruz, Postdoc at Laboratory for Software Design, Iowa State University, USA https://www.linkedin.com/in/brenodcruz/
 - Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
 - Fernanda Madeiral, a postdoctoral researcher at the KTH Royal Institute of Technology (Sweden) https://fermadeiral.github.io/
 
