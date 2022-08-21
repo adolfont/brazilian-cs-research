@@ -106,6 +106,7 @@ https://www.linkedin.com/in/leticiaduboc
 
 ## Former (or currently on leave) professors working at companies
 
+- Alexandre Nóbrega Duarte - Staff Software Engineer at Google, Austin, Texas, USA. https://www.linkedin.com/in/alexandreduarte/ https://twitter.com/realAIexandre
 - Ingrid Nunes - Scrum Master at Hospitality Digital (HD), Düsseldorf, Germany, a Metro AG company. Previously, she was an associate professor of the Instituto de Informática at the Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brazil. https://ingridnunes.github.io/
 - Walfredo Cirne - Principal Engineer at Google. Palo Alto, California, USA. https://www.linkedin.com/in/walfredo-cirne-867a382/ https://scholar.google.com/citations?user=j7cGfVkAAAAJ&hl=en 
 
