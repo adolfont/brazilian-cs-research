@@ -24,7 +24,6 @@ Como obtive?
 - CASSIANO MORO PIEKARSKI - Engenharia de Produção - Ponta Grossa - [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-155-de-4-de-fevereiro-de-2022-379492185) Agora [Chief Strategy Officer na Inbix Ventures e Inovação e ESG na KMM](https://www.linkedin.com/in/cassiano-moro-piekarski/)
 
 ### Não publicados no DOU ainda
-- Ana Paula Chaves Steinmacher - Computação - Campo Mourão -  julho 2022. Destino: ???
 - Marco Jose da Silva - Controle - Curitiba - Foi para a Áustria http://www.pessoal.utfpr.edu.br/mdasilva/
 
 ## 2021
