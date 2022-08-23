@@ -12,6 +12,7 @@ Como obtive?
 [link direto 2018](https://www.in.gov.br/consulta/-/buscar/dou?q=%22++exonerar%2C+a+pedido%2C+a+partir+de%22&s=do2&exactDate=personalizado&sortType=0&delta=20&publishFrom=01%2F01%2F2018&publishTo=31%2F12%2F2018&reverseSort=1&orgPrin=Minist%C3%A9rio+da+Educa%C3%A7%C3%A3o&orgSub=Universidade+Tecnol%C3%B3gica+Federal+do+Paran%C3%A1)
 
 ## 2022
+- Marco Jose da Silva - Controle - Curitiba - Foi para a Áustria http://www.pessoal.utfpr.edu.br/mdasilva/ [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-1.389-de-15-de-agosto-de-2022-424180971).
 - ANA PAULA CHAVES STEINMACHER - Computação - Campo Mourão - agosto 2022. Destino: ???.  [(exoneração)](https://www.in.gov.br/en/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-1.391-de-15-de-agosto-de-2022-424207440) 
 - Igor Fábio Steinmacher - Computação - Campo Mourão - julho 2022. Destino: Northern Arizona University [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-1.233-de-18-de-julho-de-2022-416982541)
 - PRISCILA SCHROEDER CURTI - Química - Londrina [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-1.186-de-12-de-julho-de-2022-415899477)
@@ -23,8 +24,6 @@ Como obtive?
 - MORGANA SUSZEK GONCALVES - Engenharia Químíca/Agrícola - Campo Mourão [{exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-212-de-21-de-fevereiro-de-2022-382362244) - Agora [Franqueada Virtuosa Unidade Campo Mourão/PR?](https://archive.is/zQ4te)
 - CASSIANO MORO PIEKARSKI - Engenharia de Produção - Ponta Grossa - [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-155-de-4-de-fevereiro-de-2022-379492185) Agora [Chief Strategy Officer na Inbix Ventures e Inovação e ESG na KMM](https://www.linkedin.com/in/cassiano-moro-piekarski/)
 
-### Não publicados no DOU ainda
-- Marco Jose da Silva - Controle - Curitiba - Foi para a Áustria http://www.pessoal.utfpr.edu.br/mdasilva/
 
 ## 2021
 
