@@ -12,7 +12,7 @@ Como obtive?
 [link direto 2018](https://www.in.gov.br/consulta/-/buscar/dou?q=%22++exonerar%2C+a+pedido%2C+a+partir+de%22&s=do2&exactDate=personalizado&sortType=0&delta=20&publishFrom=01%2F01%2F2018&publishTo=31%2F12%2F2018&reverseSort=1&orgPrin=Minist%C3%A9rio+da+Educa%C3%A7%C3%A3o&orgSub=Universidade+Tecnol%C3%B3gica+Federal+do+Paran%C3%A1)
 
 ## 2022
-
+- ANA PAULA CHAVES STEINMACHER - Computação - Campo Mourão - agosto 2022. Destino: ???.  [(exoneração)](https://www.in.gov.br/en/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-1.391-de-15-de-agosto-de-2022-424207440) 
 - Igor Fábio Steinmacher - Computação - Campo Mourão - julho 2022. Destino: Northern Arizona University [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-1.233-de-18-de-julho-de-2022-416982541)
 - PRISCILA SCHROEDER CURTI - Química - Londrina [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-1.186-de-12-de-julho-de-2022-415899477)
 - FRANCISCO ITAMARATI SECOLO GANACIM - Matemática - Curitiba [(exoneração)](https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gabir/utfpr-n-1.035-de-23-de-junho-de-2022-411438648)
