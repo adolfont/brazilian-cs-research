@@ -137,6 +137,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Pedro da Costa Abreu Júnior, PhD student at Purdue University woring with Programming Languages, Proofs and Theorem Provers https://pedroabreu0.github.io/
 - Weslley Torres, Eindhoven University of Technology, The Netherlands https://orcid.org/0000-0003-1793-8452
 - Raquel Ouriques, Blekinge Institute of Technology | BTH · Program in Software Engineering https://www.researchgate.net/profile/Raquel-Ouriques
+- Rafael Menezes, University of Manchester, England https://www.research.manchester.ac.uk/portal/rafael.menezes-postgrad.html
 
 
 
