@@ -6,7 +6,6 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 
 - Ana Cavalcanti, University of York, England http://www-users.cs.york.ac.uk/~alcc/
 - Andrea Zisman, Open University, England http://www.open.ac.uk/people/az2276
-- Bruno C. da Silva, Cal Poly SLO, USA https://bcdasilv.github.io/
 - Daniel Alencar da Costa, University of Otago, New Zealand https://danielcalencar.github.io/
 - Daniel Feitosa, University of Groningen, Netherlands http://www.cs.rug.nl/search/People/DanielFeitosa
 - Daniel Menasce,  George Mason University, USA  https://cs.gmu.edu/~menasce/menasce-web/menasce.html
@@ -48,6 +47,7 @@ https://www.linkedin.com/in/leticiaduboc
 
 - Adriano A. Santos, Senior Computer Vision Data Scientist at Conception Ro-Main (Quebec — CA). https://www.linkedin.com/in/adrianosantospb/ https://adrianosantospb.medium.com/ 
 - Alexandre Zaghetto, Senior Research Engineer at Sony, San Jose, California, USA. [LinkedIn](https://www.linkedin.com/in/zaghetto/) [Thread](https://twitter.com/adolfont/status/1517550773294571522)
+- Bruno C. da Silva, Software Quality Expert & Developer @ CQSE America (formely at Cal Poly SLO, USA), USA https://bcdasilv.github.io/ and https://www.linkedin.com/in/bruno-c-da-silva/
 - Bruno Sielly Jales Costa, Software Engineer - Machine Learning at Facebook https://www.linkedin.com/in/bruno-costa-32880964/ https://scholar.google.com/citations?hl=en&user=XZw3P-IAAAAJ&view_op=list_works&sortby=pubdate
 - Carlos Ernesto Guestrin,  Senior Director of AI and Machine Learning at Apple & Amazon Professor of Machine Learning at University of Washington https://www.linkedin.com/in/carlos-guestrin-5352a869/
 - Fabio Kepler, Director of AI Research at Unbabel, Portugal https://www.linkedin.com/in/fabiokepler/
