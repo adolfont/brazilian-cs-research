@@ -69,6 +69,7 @@ https://www.linkedin.com/in/leticiaduboc
 
 ## Professors from other Computer Science Areas
 
+- Alejandro Frery, Professor in Statistics and Data Science, School of Mathematics and Statistics, Victoria University of Wellington, New Zealand https://people.wgtn.ac.nz/alejandro.frery
 - Anderson Nascimento, Professor of Cryptology, Information Security and Information Theory, University of Washington https://anderson-nascimento.squarespace.com/ https://directory.tacoma.uw.edu/employee/andclay
 - Artur d'Avila Garcez, Professor of Computer Science at City, University London, UK https://en.wikipedia.org/wiki/Artur_d'Avila_Garcez https://www.city.ac.uk/about/people/academics/artur-davila-garcez http://www.staff.city.ac.uk/~aag/
 - Arturo Bretas, Department of Electrical & Computer Engineering at the University of Florida, USA https://www.ece.ufl.edu/people/faculty/arturo-bretas/
