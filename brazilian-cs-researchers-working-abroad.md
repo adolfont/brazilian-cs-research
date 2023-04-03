@@ -28,7 +28,6 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 https://www.linkedin.com/in/leticiaduboc
 - Leonardo Sousa, Carnegie Mellon University’s (CMU) Silicon Valley location, USA https://ssousaleo.github.io/
 - Lucas Cordeiro, University of Manchester, England https://ssvlab.github.io/lucasccordeiro/
-- Luiz Cysneiros, York University, Canada http://www.yorku.ca/cysneiro/
 - Luiz Fernando Capretz, Western University, Canada https://www.eng.uwo.ca/electrical/faculty/capretz_l/
 - Mairieli Wessel, Radboud University, The Netherlands https://mairieli.github.io/
 - Marcelo d'Amorim, North Carolina State University, USA (from November 2022) https://www.cin.ufpe.br/~damorim/ 
