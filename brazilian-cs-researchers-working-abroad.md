@@ -38,7 +38,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Renata Guizzardi, Assistant Professor at University of Twente https://it.linkedin.com/in/renataguizzardi
 - Ricardo Britto, Ericsson / Blekinge Institute of Technology, Sweden https://2019.icse-conferences.org/profile/ricardobritto
 - Silvia Abrahão, Universitat Politècnica de València, Spain https://sabrahao.wixsite.com/dsic-upv
-- Thiago Ferreira, Assistant Professor at University of Michigan-Flint, USA https://thiagodonferreira.vercel.app/
+- Thiago Ferreira, Assistant Professor at University of Michigan-Flint, USA http://umich.edu/~thiagod
 - Thiago Rocha Silva,  Associate Professor, The Maersk Mc-Kinney Moller Institute, SDU Software Engineering, University of Southern Denmark  [ORCID](https://orcid.org/0000-0001-8961-4663), [Scholar](https://scholar.google.com/citations?user=0pgKVMkAAAAJ&hl=en&oi=ao)
 - Vivian Genaro Motti, George Mason University, USA https://sites.google.com/site/vivianmotti/welcome
 - Wesley Klewerton Guez Assunção, Associate Professor at North Carolina State University, Raliegh, NC, USA https://wesleyklewerton.github.io/
