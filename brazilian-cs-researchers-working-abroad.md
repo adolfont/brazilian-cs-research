@@ -40,6 +40,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Thiago Ferreira, Assistant Professor at University of Michigan-Flint, USA https://thiagodonferreira.vercel.app/
 - Thiago Rocha Silva,  Associate Professor, The Maersk Mc-Kinney Moller Institute, SDU Software Engineering, University of Southern Denmark  [ORCID](https://orcid.org/0000-0001-8961-4663), [Scholar](https://scholar.google.com/citations?user=0pgKVMkAAAAJ&hl=en&oi=ao)
 - Vivian Genaro Motti, George Mason University, USA https://sites.google.com/site/vivianmotti/welcome
+- Wesley Klewerton Guez Assunção, Associate Professor at North Carolina State University, Raliegh, NC, USA https://wesleyklewerton.github.io/
 
 
 ## Scientists at Research institutions or Companies
@@ -123,7 +124,7 @@ https://www.linkedin.com/in/leticiaduboc
 ## Brazilian CS postdocs
 
 - Edson Ramiro Lucas Filho, post-doctoral research fellow at the Data Intensive Computing Research Lab, Cyprus University of Technology, Cyprus https://twitter.com/edsonrlucas https://edsonrl.github.io/
-- Wesley Klewerton Guez Assunção, Postdoctoral researcher / University Assistant at Johannes Kepler University Linz (JKU), Austria https://wesleyklewerton.github.io/
+
 
 ## Brazilian CS PhD students abroad
 
