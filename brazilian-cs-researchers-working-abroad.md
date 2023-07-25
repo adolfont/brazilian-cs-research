@@ -11,7 +11,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Daniel Feitosa, University of Groningen, Netherlands http://www.cs.rug.nl/search/People/DanielFeitosa
 - Daniel Menasce,  George Mason University, USA  https://cs.gmu.edu/~menasce/menasce-web/menasce.html
 - Daniela S. Cruzes, Professor at the Norwegian University of Science and Technology (NTNU) and Senior Research Scientist at SINTEF https://www.ntnu.edu/employees/dcruzes
-- Diego Elias Costa, UQAM | Université du Québec à Montréal, Canada https://diegoeliascosta.github.io/
+- Diego Elias Costa, Assistant Professor at Concordia University, Canada https://diegoeliascosta.github.io/
 - Emilia Mendes, Blekinge Institute of Technology, Sweden https://www.bth.se/eng/staff/emilia-mendes-eme/
 - Everton Guimaraes, PennState Great Valley, USA https://greatvalley.psu.edu/person/everton-guimaraes
 - Fabio Petrillo, École de Technologie Supérieure (ÉTS), Canada http://fabiopetrillo.com/
