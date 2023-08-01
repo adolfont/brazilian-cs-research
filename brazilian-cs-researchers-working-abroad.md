@@ -6,7 +6,6 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 
 - Ana Cavalcanti, University of York, England http://www-users.cs.york.ac.uk/~alcc/
 - Ana Paula Chaves, Assistant Teaching Professor at the Northern Arizona University, Flagstaff, USA https://anachaves.pro.br/ 
-- Andrea Richa, Professor at Arizona State University, USA https://search.asu.edu/profile/198256 https://www.linkedin.com/in/andrea-richa-77b47239/
 - Andrea Zisman, Open University, England http://www.open.ac.uk/people/az2276
 - Daniel Alencar da Costa, University of Otago, New Zealand https://danielcalencar.github.io/
 - Daniel Feitosa, University of Groningen, Netherlands http://www.cs.rug.nl/search/People/DanielFeitosa
@@ -75,6 +74,7 @@ https://www.linkedin.com/in/leticiaduboc
 
 - Alejandro Frery, Professor in Statistics and Data Science, School of Mathematics and Statistics, Victoria University of Wellington, New Zealand https://people.wgtn.ac.nz/alejandro.frery
 - Anderson Nascimento, Professor of Cryptology, Information Security and Information Theory, University of Washington https://anderson-nascimento.squarespace.com/ https://directory.tacoma.uw.edu/employee/andclay
+- Andrea Richa, Professor at Arizona State University, USA https://search.asu.edu/profile/198256 https://www.linkedin.com/in/andrea-richa-77b47239/
 - Artur d'Avila Garcez, Professor of Computer Science at City, University London, UK https://en.wikipedia.org/wiki/Artur_d'Avila_Garcez https://www.city.ac.uk/about/people/academics/artur-davila-garcez http://www.staff.city.ac.uk/~aag/
 - Arturo Bretas, Department of Electrical & Computer Engineering at the University of Florida, USA https://www.ece.ufl.edu/people/faculty/arturo-bretas/
 - Bernardo David,  IT University of Copenhagen, Denmark https://www.bmdavid.com/
