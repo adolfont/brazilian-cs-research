@@ -98,6 +98,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Marcus Botacin, Visiting Assistant Professor, Computer Science & Engineering, Texas A&M University, USA https://marcusbotacin.github.io/
 - Mario Costa Sousa, University of Calgary, Canada https://pages.cpsc.ucalgary.ca/~mario/index.htm
 - Marinho Barcellos, Senior Lecturer (Computer Science), University of Waikato https://www.waikato.ac.nz/staff-profiles/people/mbarcell
+- Miriam Halfeld Ferrari Alves, Professor at the Computer Science Departement of the IUT of Université d' Orléans, France https://www.univ-orleans.fr/lifo/Members/Mirian.Halfeld/
 - Odinaldo Rodrigues, Senior Lecturer in Computer Science, King's College London, UK https://www.kcl.ac.uk/people/odinaldo-rodrigues
 - Paulo Barreto, University of Washington Tacoma https://scholar.google.com/citations?user=kG_95CgAAAAJ&hl=en https://directory.tacoma.uw.edu/employee/pbarreto
 - Rafael Dowsley, Monash University, Australia https://dowsley.net/
