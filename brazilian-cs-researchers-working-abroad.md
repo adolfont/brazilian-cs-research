@@ -5,7 +5,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 ## Software Engineering Professors/Researchers at Universities
 
 - Alvaro Miyazawa, Lecturer at University of York, England, UK https://www.cs.york.ac.uk/people/?username=alvarohm
-- Ana Cavalcanti, University of York, England http://www-users.cs.york.ac.uk/~alcc/
+- Ana Cavalcanti, University of York, England, UK http://www-users.cs.york.ac.uk/~alcc/
 - Ana Paula Chaves, Assistant Teaching Professor at the Northern Arizona University, Flagstaff, USA https://anachaves.pro.br/ 
 - Andrea Zisman, Open University, England http://www.open.ac.uk/people/az2276
 - Daniel Alencar da Costa, University of Otago, New Zealand https://danielcalencar.github.io/
@@ -19,30 +19,30 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Fabio Petrillo, École de Technologie Supérieure (ÉTS), Canada http://fabiopetrillo.com/
 - Fernando Castor, Assistant professor at the Department of Information and Computing Sciences, Utrecht University, The Netherlands https://sites.google.com/a/cin.ufpe.br/castor/
 - Francisco Gomes de Oliveira Neto, Chalmers/Gothenburg University, Sweden https://scholar.google.com.br/citations?user=RDgaTXMAAAAJ&hl=pt-BR https://twitter.com/fgo_neto
-- Fernanda Madeiral, Vrije Universiteit Amsterdam, Netherlands https://fermadeiral.github.io/
+- Fernanda Madeiral, Vrije Universiteit Amsterdam, The Netherlands https://fermadeiral.github.io/
 - Gerson Sunyé, University of Nantes, France https://sunye-g.univ-nantes.io/
 - Giancarlo Guizzardi, Free University of Bolzano-Bozen, Italy https://www.unibz.it/en/faculties/computer-science/academic-staff/person/37428-giancarlo-guizzardi
-- Henrique Rocha, Assistant Professor, Loyola University Maryland, USA https://www.linkedin.com/in/hscrocha/
+- Henrique Rocha, Assistant Professor, Loyola University, USA https://www.linkedin.com/in/hscrocha/
 - Igor Steinmacher, Assistant Professor, Northern Arizona University, USA https://www.igor.pro.br/
 - João Araújo, Universidade Nova de Lisboa, Portugal https://docentes.fct.unl.pt/p191/
 - Joanna C. S. Santos, University of Notre Dame, USA https://joannacss.github.io/ https://twitter.com/joannacss
-- Juliana Freire is a Professor of Computer Science and Data Science at New York University https://engineering.nyu.edu/faculty/juliana-freire
+- Juliana Freire is a Professor of Computer Science and Data Science at New York University, USA https://engineering.nyu.edu/faculty/juliana-freire
 - Letícia Duboc, University Ramon Llull, Spain https://scholar.google.com/citations?hl=en&user=gXGa494AAAAJ&view_op=list_works&sortby=pubdate 
 https://www.linkedin.com/in/leticiaduboc
-- Leonardo Sousa, Carnegie Mellon University’s (CMU) Silicon Valley location, USA https://ssousaleo.github.io/
-- Lucas Cordeiro, University of Manchester, England https://ssvlab.github.io/lucasccordeiro/
+- Leonardo Sousa, Carnegie Mellon University’s (CMU), Silicon Valley location, USA https://ssousaleo.github.io/
+- Lucas Cordeiro, University of Manchester, England, uk https://ssvlab.github.io/lucasccordeiro/
 - Luiz Fernando Capretz, Western University, Canada https://www.eng.uwo.ca/electrical/faculty/capretz_l/
 - Mairieli Wessel, Radboud University, The Netherlands https://mairieli.github.io/
 - Marcelo d'Amorim, North Carolina State University, USA (from November 2022) https://www.cin.ufpe.br/~damorim/ 
 - Marco Aurélio Gerosa, Northern Arizona University, USA https://www.ime.usp.br/~gerosa/
 - Maurício Aniche, TU Delft, Netherlands https://www.mauricioaniche.com/
 - Miriam Capretz, Western University, Canada https://www.eng.uwo.ca/electrical/faculty/capretz_m/index.html
-- Renata Guizzardi, Assistant Professor at University of Twente https://it.linkedin.com/in/renataguizzardi
+- Renata Guizzardi, Assistant Professor at University of Twente, The Netherlands https://it.linkedin.com/in/renataguizzardi
 - Ricardo Britto, Ericsson / Blekinge Institute of Technology, Sweden https://2019.icse-conferences.org/profile/ricardobritto
 - Rodrigo Spinola,  Associate Professor in the Department of Computer Science at Virginia Commonwealth University, Richmond, VA, USA https://www.rodrigospinola.com/
 - Silvia Abrahão, Universitat Politècnica de València, Spain https://sabrahao.wixsite.com/dsic-upv
 - Thiago Ferreira, Assistant Professor at University of Michigan-Flint, USA http://umich.edu/~thiagod
-- Thiago Rocha Silva,  Associate Professor, The Maersk Mc-Kinney Moller Institute, SDU Software Engineering, University of Southern Denmark  [ORCID](https://orcid.org/0000-0001-8961-4663), [Scholar](https://scholar.google.com/citations?user=0pgKVMkAAAAJ&hl=en&oi=ao)
+- Thiago Rocha Silva,  Associate Professor, The Maersk Mc-Kinney Moller Institute, SDU Software Engineering, University of Southern Denmark, Denmark  [ORCID](https://orcid.org/0000-0001-8961-4663), [Scholar](https://scholar.google.com/citations?user=0pgKVMkAAAAJ&hl=en&oi=ao)
 - Vivian Genaro Motti, George Mason University, USA https://sites.google.com/site/vivianmotti/welcome
 - Wesley Klewerton Guez Assunção, Associate Professor at North Carolina State University, Raliegh, NC, USA https://wesleyklewerton.github.io/
 
