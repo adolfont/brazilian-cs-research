@@ -54,6 +54,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Carlos Ernesto Guestrin,  Senior Director of AI and Machine Learning at Apple & Amazon Professor of Machine Learning at University of Washington https://www.linkedin.com/in/carlos-guestrin-5352a869/
 - Fabio Kepler, Director of AI Research at Unbabel, Portugal https://www.linkedin.com/in/fabiokepler/
 - Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
+- Guilherme Ottoni, Meta Reearch, USA https://research.facebook.com/people/ottoni-guilherme/
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
 - Karin Strauss, Senior Principal Research Manager, Microsoft and Affiliate Professor at the Department of Computer Science and Engineering at University of Washington. https://www.microsoft.com/en-us/research/people/kstrauss/
 - Lasaro Camargos, Principal Engineer at Commvault, US (previously a professor at UFU) https://www.linkedin.com/in/lasaro/
