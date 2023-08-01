@@ -4,6 +4,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 
 ## Software Engineering Professors/Researchers at Universities
 
+- Alvaro Miyazawa, Lecturer at University of York, England, UK https://www.cs.york.ac.uk/people/?username=alvarohm
 - Ana Cavalcanti, University of York, England http://www-users.cs.york.ac.uk/~alcc/
 - Ana Paula Chaves, Assistant Teaching Professor at the Northern Arizona University, Flagstaff, USA https://anachaves.pro.br/ 
 - Andrea Zisman, Open University, England http://www.open.ac.uk/people/az2276
