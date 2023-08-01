@@ -85,6 +85,8 @@ https://www.linkedin.com/in/leticiaduboc
 - Daniel Medeiros, Victoria University of Wellington, New Zealand https://www.victoria.ac.nz/cmic/about/staff/daniel-medeiros
 - Daniel Aloise, Associate Professor, Department of Computer Engineering and Software Engineering, Polytechnique Montréal https://www.polymtl.ca/expertises/en/aloise-daniel
 - Daniela Seabra Oliveira, Associate Professor (IoT Warren B. Nelms Term Professor), Department of Electrical and Computer Engineering, University of Florida, USA https://danielaseabraoliveira.com/
+- Danilo Vasconcellos Vargas, Associate Professor, Faculty of Information Science and Electrical Engineering,
+Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - David Nemer, Assistant Professor of Media Studies at the University of Virginia, USA https://twitter.com/DavidNemer https://www.dnemer.com/ 
 - Diego Aranha, Aarhus University, Denmark https://sites.google.com/site/dfaranha/
 - Dilma da Silva, Professor, Computer Science & Engineering, Texas A&M University, USA https://engineering.tamu.edu/cse/profiles/da-silva-dilma.html
