@@ -2,7 +2,7 @@
 
 I have created this list/repo to list the many Brazilians working abroad. It used to be only for Software Engineering professos but now it has expanded to other CS areas and to non-professors. To be on this list, the person must be a Brazilian working at an institution and doing research-related work.
 
-## Software Engineering Professors
+## Software Engineering Professors/Researchers at Universities
 
 - Ana Cavalcanti, University of York, England http://www-users.cs.york.ac.uk/~alcc/
 - Ana Paula Chaves, Assistant Teaching Professor at the Northern Arizona University, Flagstaff, USA https://anachaves.pro.br/ 
@@ -10,8 +10,9 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Daniel Alencar da Costa, University of Otago, New Zealand https://danielcalencar.github.io/
 - Daniel Feitosa, University of Groningen, Netherlands http://www.cs.rug.nl/search/People/DanielFeitosa
 - Daniel Menasce,  George Mason University, USA  https://cs.gmu.edu/~menasce/menasce-web/menasce.html
-- Daniela S. Cruzes, Professor at the Norwegian University of Science and Technology (NTNU) and Senior Research Scientist at SINTEF https://www.ntnu.edu/employees/dcruzes
+- Daniela S. Cruzes, Professor at the Norwegian University of Science and Technology (NTNU) and Senior Research Scientist at SINTEF, Norway https://www.ntnu.edu/employees/dcruzes
 - Diego Elias Costa, Assistant Professor at Concordia University, Canada https://diegoeliascosta.github.io/
+- Eduardo Guerra, Researcher at Free University of Bozen-Bolzano, Italy https://www.unibz.it/en/faculties/engineering/academic-staff/person/43879-eduardo-martins-guerra
 - Emilia Mendes, Blekinge Institute of Technology, Sweden https://www.bth.se/eng/staff/emilia-mendes-eme/
 - Everton Guimaraes, PennState Great Valley, USA https://greatvalley.psu.edu/person/everton-guimaraes
 - Fabio Petrillo, École de Technologie Supérieure (ÉTS), Canada http://fabiopetrillo.com/
