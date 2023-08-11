@@ -22,6 +22,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Fernanda Madeiral, Vrije Universiteit Amsterdam, The Netherlands https://fermadeiral.github.io/
 - Gerson Sunyé, University of Nantes, France https://sunye-g.univ-nantes.io/
 - Giancarlo Guizzardi, Free University of Bolzano-Bozen, Italy https://www.unibz.it/en/faculties/computer-science/academic-staff/person/37428-giancarlo-guizzardi
+- Gustavo Olia, Queen's University, Canada https://gaoliva.com/
 - Henrique Rocha, Assistant Professor, Loyola University, USA https://www.linkedin.com/in/hscrocha/
 - Igor Steinmacher, Assistant Professor, Northern Arizona University, USA https://www.igor.pro.br/
 - João Araújo, Universidade Nova de Lisboa, Portugal https://docentes.fct.unl.pt/p191/
