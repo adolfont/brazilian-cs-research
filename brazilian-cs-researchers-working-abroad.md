@@ -140,7 +140,6 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 ## Brazilian CS PhD students abroad
 
 - April Gonçalves, PhD Student at Roskilde University, Denmark https://cyberglot.space/  https://scholar.google.com/citations?user=bik-6_IAAAAJ&hl=en
-- Gabriela Karoline Michelon, PhD student at Johannes Kepler University Linz  https://gabrielamichelon.github.io/
 - Gustavo do Vale, working at MSG Systems and studying at Saarland University https://www.se.cs.uni-saarland.de/people/vale.php 
 - Hugo Sadok, PhD Student, Computer Science Department, Carnegie Mellon University https://hsadok.com/ https://twitter.com/hugosadok
 - Italo Santos, PhD Student, School of Informatics, Computing, and Cyber Systems (SICCS), Northern Arizona University, USA https://sites.google.com/view/italo-santos/home https://scholar.google.com.br/citations?view_op=list_works&hl=pt-BR&user=miVfClIAAAAJ
@@ -153,6 +152,10 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Weslley Torres, Eindhoven University of Technology, The Netherlands https://orcid.org/0000-0003-1793-8452
 - Raquel Ouriques, Blekinge Institute of Technology | BTH · Program in Software Engineering https://www.researchgate.net/profile/Raquel-Ouriques
 - Rafael Menezes, University of Manchester, England https://www.research.manchester.ac.uk/portal/rafael.menezes-postgrad.html
+
+## Graduated 
+
+- Gabriela Karoline Michelon, PhD  at Johannes Kepler University Linz  https://gabrielamichelon.github.io/
 
 
 
