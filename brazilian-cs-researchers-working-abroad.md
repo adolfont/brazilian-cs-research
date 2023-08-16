@@ -143,6 +143,7 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Gabriela Karoline Michelon, PhD student at Johannes Kepler University Linz  https://gabrielamichelon.github.io/
 - Gustavo do Vale, working at MSG Systems and studying at Saarland University https://www.se.cs.uni-saarland.de/people/vale.php 
 - Hugo Sadok, PhD Student, Computer Science Department, Carnegie Mellon University https://hsadok.com/ https://twitter.com/hugosadok
+- Italo Santos, PhD Student, School of Informatics, Computing, and Cyber Systems (SICCS), Northern Arizona University, USA https://sites.google.com/view/italo-santos/home https://scholar.google.com.br/citations?view_op=list_works&hl=pt-BR&user=miVfClIAAAAJ
 - Joana M. F. da Trindade, PhD student in EECS at MIT http://joana.fyi https://twitter.com/jmftrindade
 - Leonardo F. R. Ribeiro, TU Darmstadt, Processamento de Linguagem Natural e Deep Learning, https://leoribeiro.github.io/
 - Luciano Marchezan de Paula, PhD Student at Johannes Kepler Universität Linz https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/luciano-marchezan-de-paula
