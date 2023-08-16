@@ -129,7 +129,6 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 
 - Breno Dantas Cruz, Postdoc at Laboratory for Software Design, Iowa State University, USA https://www.linkedin.com/in/brenodcruz/
 - Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
-- Fernanda Madeiral, a postdoctoral researcher at the KTH Royal Institute of Technology (Sweden) https://fermadeiral.github.io/
 
 
 
