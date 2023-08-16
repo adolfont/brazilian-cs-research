@@ -126,6 +126,7 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Walfredo Cirne - Principal Engineer at Google. Palo Alto, California, USA. https://www.linkedin.com/in/walfredo-cirne-867a382/ https://scholar.google.com/citations?user=j7cGfVkAAAAJ&hl=en 
 
 ## Brazilian Software Engineering postdocs
+
 - Breno Dantas Cruz, Postdoc at Laboratory for Software Design, Iowa State University, USA https://www.linkedin.com/in/brenodcruz/
 - Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
 - Fernanda Madeiral, a postdoctoral researcher at the KTH Royal Institute of Technology (Sweden) https://fermadeiral.github.io/
