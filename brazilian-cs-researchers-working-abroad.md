@@ -102,6 +102,7 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Leonardo de Moura, Senior Principal Researcher at Microsoft Research, Redmond, Washington, USA https://www.microsoft.com/en-us/research/people/leonardo/
 - Lucas C. Cordeiro, Senior Lecturer (Associate Professor) in the Department of Computer Science at the University of Manchester (UK) https://ssvlab.github.io/lucasccordeiro/
 - Luis Ceze, Professor, Paul G. Allen School of Computer Science and Engineering https://homes.cs.washington.edu/~luisceze/
+- Marcela Tuler de Oliveira, Assistant Professor at Delft University of Technology, Netherlands https://www.linkedin.com/in/marcelatuler/
 - Marcus Botacin, Visiting Assistant Professor, Computer Science & Engineering, Texas A&M University, USA https://marcusbotacin.github.io/
 - Mario Costa Sousa, University of Calgary, Canada https://pages.cpsc.ucalgary.ca/~mario/index.htm
 - Marinho Barcellos, Senior Lecturer (Computer Science), University of Waikato https://www.waikato.ac.nz/staff-profiles/people/mbarcell
