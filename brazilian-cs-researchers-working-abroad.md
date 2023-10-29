@@ -8,6 +8,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Ana Cavalcanti, University of York, England, UK http://www-users.cs.york.ac.uk/~alcc/
 - Ana Paula Chaves, Assistant Teaching Professor at the Northern Arizona University, Flagstaff, USA https://anachaves.pro.br/ 
 - Andrea Zisman, Open University, England http://www.open.ac.uk/people/az2276
+- Arthur Azevedo de Amorim, Department of Computer Science at the Rochester Institute of Technology, USA http://arthuraa.net/
 - Daniel Alencar da Costa, University of Otago, New Zealand https://danielcalencar.github.io/
 - Daniel Feitosa, University of Groningen, Netherlands http://www.cs.rug.nl/search/People/DanielFeitosa
 - Daniel Menasce,  George Mason University, USA  https://cs.gmu.edu/~menasce/menasce-web/menasce.html
