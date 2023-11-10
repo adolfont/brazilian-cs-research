@@ -58,6 +58,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Carlos Ernesto Guestrin,  Senior Director of AI and Machine Learning at Apple & Amazon Professor of Machine Learning at University of Washington https://www.linkedin.com/in/carlos-guestrin-5352a869/
 - Fabio Kepler, Director of AI Research at Unbabel, Portugal https://www.linkedin.com/in/fabiokepler/
 - Filipe R. Cogo, Huawei Canada https://scholar.google.com/citations?user=1oxcezAAAAAJ&hl=pt-BR
+- Flavio Oquendo, École Nationale Supérieure d'Ingénieurs de Bretagne Sud, France https://people.irisa.fr/Flavio.Oquendo/
 - Guilherme Ottoni, Meta Reearch, USA https://research.facebook.com/people/ottoni-guilherme/
 - Gustavo Soares, Microsoft Research, USA https://twitter.com/gustavoas
 - Karin Strauss, Senior Principal Research Manager, Microsoft and Affiliate Professor at the Department of Computer Science and Engineering at University of Washington. https://www.microsoft.com/en-us/research/people/kstrauss/
@@ -66,6 +67,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Luiz André Barroso, VP of Engineering, Google Research https://www.barroso.org/ https://research.google/people/LuizBarroso/
 - Marcio Juliato, Staff Research Scientist at Intel Corporation, Automated Vehicles/Autonomous Systems Security https://www.linkedin.com/in/marciojuliato/
 - Marcos Aguilera, Senior Staff Researcher, VMWare,  Palo Alto, CA, US https://research.vmware.com/researchers/marcos-aguilera
+- Pablo Antonino, Fraunhofer Institute for Experimental Software Engineering IESE in Kaiserslautern, Germany https://www.iese.fraunhofer.de/blog/author/pablo-antonino/
 - Rafael Misoczki, Cryptographer at Google https://scholar.google.com/citations?user=lAw5cjkAAAAJ&hl=en https://www.linkedin.com/in/rafael-misoczki-phd-24b33013/
 - Renato Paes Leme, Research Scientist at Google https://www.linkedin.com/in/renato-paes-leme-05922322/
 - Ricardo Bianchini, Distinguished Engineer, Microsoft Research  https://www.microsoft.com/en-us/research/people/ricardob/
