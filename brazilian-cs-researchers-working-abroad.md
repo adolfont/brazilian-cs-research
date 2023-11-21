@@ -84,6 +84,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Artur d'Avila Garcez, Professor of Computer Science at City, University London, UK https://en.wikipedia.org/wiki/Artur_d'Avila_Garcez https://www.city.ac.uk/about/people/academics/artur-davila-garcez http://www.staff.city.ac.uk/~aag/
 - Arturo Bretas, Department of Electrical & Computer Engineering at the University of Florida, USA https://www.ece.ufl.edu/people/faculty/arturo-bretas/
 - Bernardo David,  IT University of Copenhagen, Denmark https://www.bmdavid.com/
+- Claudio D. G. Linhares, Senior Lecturer, Department of Computer Science and Media Technology, Linnaeus University, Växjö, Sweden https://lnu.se/personal/claudio.linhares/
 - Daniel Bristot de Oliveira, Red Hat and ReTiS Lab, Italy https://bristot.me/
 - Daniel G. Costa, Universidade do Porto https://orcid.org/0000-0003-3988-8476
 - Daniel Medeiros, Victoria University of Wellington, New Zealand https://www.victoria.ac.nz/cmic/about/staff/daniel-medeiros
