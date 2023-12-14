@@ -1,6 +1,6 @@
 # Brazilian Computer Science Researchers working abroad
 
-I have created this list/repo to list the many Brazilians working abroad. It used to be only for Software Engineering professos but now it has expanded to other CS areas and to non-professors. To be on this list, the person must be a Brazilian working at an institution and doing research-related work.
+I have created this list/repo to list the many Brazilians working abroad. It used to be only for Software Engineering professors but now it has expanded to other CS areas and to non-professors. To be on this list, the person must be a Brazilian working at an institution and doing research-related work.
 
 ## Software Engineering Professors/Researchers at Universities
 
@@ -135,7 +135,7 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 
 - Breno Dantas Cruz, Postdoc at Laboratory for Software Design, Iowa State University, USA https://www.linkedin.com/in/brenodcruz/
 - Felipe Ebert, Eindhoven University of Technology, The Netherlands https://felipeebert.github.io/
-
+- Michel Albonico, Stuttgart Universität, Germany https://michel.iotrixx.com.br/
 
 
 ## Brazilian CS postdocs
@@ -162,6 +162,7 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 ## Graduated 
 
 - Gabriela Karoline Michelon, PhD  at Johannes Kepler University Linz  https://gabrielamichelon.github.io/
+- Michel Albonico, PhD at IMT Atlantique Bretagne Pays de la Loire (2017), Nantes, France
 
 
 
