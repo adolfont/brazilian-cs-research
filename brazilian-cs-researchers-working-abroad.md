@@ -96,6 +96,7 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - David Nemer, Assistant Professor of Media Studies at the University of Virginia, USA https://twitter.com/DavidNemer https://www.dnemer.com/ 
 - Diego Aranha, Aarhus University, Denmark https://sites.google.com/site/dfaranha/
 - Dilma da Silva, Professor, Computer Science & Engineering, Texas A&M University, USA https://engineering.tamu.edu/cse/profiles/da-silva-dilma.html
+- Edirlei Soares de Lima, Lecturer at Breda University of Applied Sciences, The Netherlands https://edirlei.com/
 - Elaine Pimentel, University College London, UK https://sites.google.com/site/elainepimentel/
 - Ellen Hidemi FUKUDA, Associate Professor, Graduate School of Informatics, Kyoto University http://www-optima.amp.i.kyoto-u.ac.jp/staff_website/ellen/
 - Fabricio Goes, Lecturer in Creative Computing, University of Leicester, UK https://le.ac.uk/people/fabricio-goes
