@@ -38,7 +38,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Mairieli Wessel, Radboud University, The Netherlands https://mairieli.github.io/
 - Marcelo d'Amorim, North Carolina State University, USA (from November 2022) https://www.cin.ufpe.br/~damorim/ 
 - Marco Aurélio Gerosa, Northern Arizona University, USA https://www.ime.usp.br/~gerosa/
-- Maurício Aniche, TU Delft, Netherlands https://www.mauricioaniche.com/
+- Maurício Aniche, TU Delft, Netherlands (left) https://www.mauricioaniche.com/
 - Miriam Capretz, Western University, Canada https://www.eng.uwo.ca/electrical/faculty/capretz_m/index.html
 - Renata Guizzardi, Assistant Professor at University of Twente, The Netherlands https://it.linkedin.com/in/renataguizzardi
 - Ricardo Britto, Ericsson / Blekinge Institute of Technology, Sweden https://2019.icse-conferences.org/profile/ricardobritto
