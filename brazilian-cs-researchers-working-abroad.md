@@ -47,7 +47,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Thiago Ferreira, Assistant Professor at University of Michigan-Flint, USA http://umich.edu/~thiagod
 - Thiago Rocha Silva,  Associate Professor, The Maersk Mc-Kinney Moller Institute, SDU Software Engineering, University of Southern Denmark, Denmark  [ORCID](https://orcid.org/0000-0001-8961-4663), [Scholar](https://scholar.google.com/citations?user=0pgKVMkAAAAJ&hl=en&oi=ao)
 - Vivian Genaro Motti, George Mason University, USA https://sites.google.com/site/vivianmotti/welcome
-- Wesley Klewerton Guez Assunção, Associate Professor at North Carolina State University, Raliegh, NC, USA https://wesleyklewerton.github.io/
+- Wesley Klewerton Guez Assunção, Associate Professor at North Carolina State University, Raleigh, NC, USA https://wesleyklewerton.github.io/
 
 
 ## Scientists at Research institutions or Companies
