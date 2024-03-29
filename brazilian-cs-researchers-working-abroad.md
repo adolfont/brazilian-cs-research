@@ -19,7 +19,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Everton Guimaraes, PennState Great Valley, USA https://greatvalley.psu.edu/person/everton-guimaraes
 - Fabio Petrillo, École de Technologie Supérieure (ÉTS), Canada http://fabiopetrillo.com/
 - Felipe Ebert,  teacher at the Fontys University of Applied Sciences, the Netherlands https://felipeebert.github.io/
-- Fernando Castor, Assistant professor at the University of Twente, Utrecht, The Netherlands https://sites.google.com/a/cin.ufpe.br/castor/
+- Fernando Castor, Assistant professor at the University of Twente, Enschede, The Netherlands https://sites.google.com/a/cin.ufpe.br/castor/
 - Francisco Gomes de Oliveira Neto, Chalmers/Gothenburg University, Sweden https://scholar.google.com.br/citations?user=RDgaTXMAAAAJ&hl=pt-BR https://twitter.com/fgo_neto
 - Fernanda Madeiral, Vrije Universiteit Amsterdam, The Netherlands https://fermadeiral.github.io/
 - Gerson Sunyé, University of Nantes, France https://sunye-g.univ-nantes.io/
