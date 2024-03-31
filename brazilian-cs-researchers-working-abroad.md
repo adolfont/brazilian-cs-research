@@ -104,6 +104,7 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Felipe Campelo, Aston University, England https://www2.aston.ac.uk/eas/staff/a-z/dr-felipe-campelo/Felipe%20Campelo
 - Ivan De Oliveira Nunes, Assist. Professor of Computing Security at RIT, USA https://twitter.com/IONunes
 - J. Nelson Amaral, Professor at the Department of Computing Science - University of Alberta https://webdocs.cs.ualberta.ca/~amaral/
+- Jefferson dos Santos, Assistant Professor (Lecturer) in Computer Vision at the University of Sheffield, United Kingdom https://jeferssonalex.github.io/
 - Jorge Augusto Meira, Research Associate, Interdisciplinary Centre for Security, Reliability and Trust, Université du Luxembourg https://wwwen.uni.lu/snt/people/jorge_augusto_meira 
 - Katia Obraczka, Professor of Computer Engineering, UC Santa Cruz, USA https://en.wikipedia.org/wiki/Katia_Obraczka http://www.soe.ucsc.edu/~katia/
 - Leandro L. Minku, Lecturer in Intelligent Systems, School of Computer Science, University of Birmingham, UK  https://www.cs.bham.ac.uk/~minkull/
