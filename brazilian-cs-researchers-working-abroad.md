@@ -143,10 +143,14 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 
 ## Brazilian CS postdocs
 
+_This is not updated._
+
 - Edson Ramiro Lucas Filho, post-doctoral research fellow at the Data Intensive Computing Research Lab, Cyprus University of Technology, Cyprus https://twitter.com/edsonrlucas https://edsonrl.github.io/
 
 
 ## Brazilian CS PhD students abroad
+
+_This is not updated._
 
 - April Gonçalves, PhD Student at Roskilde University, Denmark https://cyberglot.space/  https://scholar.google.com/citations?user=bik-6_IAAAAJ&hl=en
 - Gustavo do Vale, working at MSG Systems and studying at Saarland University https://www.se.cs.uni-saarland.de/people/vale.php 
@@ -163,6 +167,8 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Rafael Menezes, University of Manchester, England https://www.research.manchester.ac.uk/portal/rafael.menezes-postgrad.html
 
 ## Graduated 
+
+_This is not updated._
 
 - Gabriela Karoline Michelon, PhD  at Johannes Kepler University Linz  https://gabrielamichelon.github.io/
 - Michel Albonico, PhD at IMT Atlantique Bretagne Pays de la Loire (2017), Nantes, France
