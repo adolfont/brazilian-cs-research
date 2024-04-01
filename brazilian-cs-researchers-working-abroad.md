@@ -74,6 +74,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Renato Paes Leme, Research Scientist at Google https://www.linkedin.com/in/renato-paes-leme-05922322/
 - Ricardo Bianchini, Distinguished Engineer, Microsoft Research  https://www.microsoft.com/en-us/research/people/ricardob/
 - Rodrigo de Salvo Braz, Research Scientist at Facebook https://www.linkedin.com/in/rodrigo-de-salvo-braz-412248/
+-  Ronnie E. de Souza Santos, Assistant Professor at the Schulich School of Engineering, Department of Electrical and Software Engineering, University of Calgary, Canada https://scholar.google.com/citations?user=wYfnBrYAAAAJ&hl=en  https://www.linkedin.com/in/ronnie-santos/ https://twitter.com/softwaronnie https://profiles.ucalgary.ca/ronnie-de-souza-santos
 - Stenio Fernandes, Assistant Director, Data Science/AI Innovation, Bank of Canada https://www.linkedin.com/in/steniofernandes/
 - Talita Perciano, Research Scientist, Computational Research Division, Lawrence Berkeley National Laboratory, USA  https://crd.lbl.gov/departments/data-science-and-technology/data-analytics-and-visualization/staff/talita-perciano/
 - Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
@@ -125,8 +126,6 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Ricardo da Silva Torres, Professor in Visual Computing at the Norwegian University of Science and Technology (NTNU) https://www.ntnu.edu/employees/ricardo.torres
 - Rodrigo Canaan,  Cal Poly SLO, USA https://www.rodrigocanaan.com/
 - Rodrigo Fonseca, Associate professor of Computer Science, Brown University; Principal Researcher at Microsoft Research, USA http://cs.brown.edu/~rfonseca/
-- Ronnie E. de Souza Santos, Assistant Professor in Business Analytics (tenure-track) at the University of Cape Breton, Canada https://scholar.google.com/citations?user=wYfnBrYAAAAJ&hl=en  https://www.linkedin.com/in/ronnie-santos/ https://twitter.com/softwaronnie
-
 - Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK https://go.warwick.ac.uk/kalvala
 
 ## Former (or currently on leave) professors working at companies
