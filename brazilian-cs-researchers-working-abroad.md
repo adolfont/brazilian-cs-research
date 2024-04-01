@@ -31,6 +31,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Joanna C. S. Santos, University of Notre Dame, USA https://joannacss.github.io/ https://twitter.com/joannacss
 - Juliana Freire is a Professor of Computer Science and Data Science at New York University, USA https://engineering.nyu.edu/faculty/juliana-freire
 - Káthia Marçal de Oliveira, Professor at Univ. Polytechnique Hauts-de-France, Valenciennes, France https://www.linkedin.com/in/k%C3%A1thia-mar%C3%A7al-de-oliveira-8250868
+- Leandro L. Minku, Lecturer in Intelligent Systems, School of Computer Science, University of Birmingham, UK  https://www.cs.bham.ac.uk/~minkull/
 - Letícia Duboc, University Ramon Llull, Spain https://scholar.google.com/citations?hl=en&user=gXGa494AAAAJ&view_op=list_works&sortby=pubdate 
 https://www.linkedin.com/in/leticiaduboc
 - Leonardo Sousa, Carnegie Mellon University’s (CMU), Silicon Valley location, USA https://ssousaleo.github.io/
@@ -108,7 +109,6 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Jefferson dos Santos, Assistant Professor (Lecturer) in Computer Vision at the University of Sheffield, United Kingdom https://jeferssonalex.github.io/
 - Jorge Augusto Meira, Research Associate, Interdisciplinary Centre for Security, Reliability and Trust, Université du Luxembourg https://wwwen.uni.lu/snt/people/jorge_augusto_meira 
 - Katia Obraczka, Professor of Computer Engineering, UC Santa Cruz, USA https://en.wikipedia.org/wiki/Katia_Obraczka http://www.soe.ucsc.edu/~katia/
-- Leandro L. Minku, Lecturer in Intelligent Systems, School of Computer Science, University of Birmingham, UK  https://www.cs.bham.ac.uk/~minkull/
 - Leonardo de Moura, Senior Principal Researcher at Microsoft Research, Redmond, Washington, USA https://www.microsoft.com/en-us/research/people/leonardo/
 - Lucas C. Cordeiro, Senior Lecturer (Associate Professor) in the Department of Computer Science at the University of Manchester (UK) https://ssvlab.github.io/lucasccordeiro/
 - Luis Ceze, Professor, Paul G. Allen School of Computer Science and Engineering https://homes.cs.washington.edu/~luisceze/
