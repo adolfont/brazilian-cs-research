@@ -43,6 +43,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Maurício Aniche, TU Delft, Netherlands (left) https://www.mauricioaniche.com/
 - Miriam Capretz, Western University, Canada https://www.eng.uwo.ca/electrical/faculty/capretz_m/index.html
 - Renata Guizzardi, Assistant Professor at University of Twente, The Netherlands https://it.linkedin.com/in/renataguizzardi
+- Renata Medeiros de Carvalho, Assistant Professor at TU Eindhoven, The Netherlands https://www.tue.nl/en/research/researchers/renata-medeiros-de-carvalho
 - Ricardo Britto, Ericsson / Blekinge Institute of Technology, Sweden https://2019.icse-conferences.org/profile/ricardobritto
 - Rodrigo Spinola,  Associate Professor in the Department of Computer Science at Virginia Commonwealth University, Richmond, VA, USA https://www.rodrigospinola.com/
 - Silvia Abrahão, Universitat Politècnica de València, Spain https://sabrahao.wixsite.com/dsic-upv
