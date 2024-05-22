@@ -122,7 +122,6 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Paulo Barreto, University of Washington Tacoma https://scholar.google.com/citations?user=kG_95CgAAAAJ&hl=en https://directory.tacoma.uw.edu/employee/pbarreto
 - Rafael Dowsley, Monash University, Australia https://dowsley.net/
 - Rafael Silva, University of Southern California, USA http://rafaelsilva.com/
-- Renata Medeiros de Carvalho, Eindhoven University of Technology, The Netherlands https://www.win.tue.nl/~rmedeiro/
 - Renato Figueiredo, University of FLorida, USA https://www.ece.ufl.edu/people/faculty/renato-figueiredo/
 - Ricardo da Silva Torres, Professor in Visual Computing at the Norwegian University of Science and Technology (NTNU) https://www.ntnu.edu/employees/ricardo.torres
 - Rodrigo Canaan,  Cal Poly SLO, USA https://www.rodrigocanaan.com/
