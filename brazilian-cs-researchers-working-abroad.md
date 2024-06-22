@@ -105,6 +105,7 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Ellen Hidemi FUKUDA, Associate Professor, Graduate School of Informatics, Kyoto University http://www-optima.amp.i.kyoto-u.ac.jp/staff_website/ellen/
 - Fabricio Goes, Lecturer in Creative Computing, University of Leicester, UK https://le.ac.uk/people/fabricio-goes
 - Felipe Campelo, Aston University, England https://www2.aston.ac.uk/eas/staff/a-z/dr-felipe-campelo/Felipe%20Campelo
+- Gabriel Spadon, Dalhousie University, Canada https://scholar.google.com.pk/citations?user=bfdGsGUAAAAJ&hl=en
 - Ivan De Oliveira Nunes, Assist. Professor of Computing Security at RIT, USA https://twitter.com/IONunes
 - J. Nelson Amaral, Professor at the Department of Computing Science - University of Alberta https://webdocs.cs.ualberta.ca/~amaral/
 - Jefferson dos Santos, Assistant Professor (Lecturer) in Computer Vision at the University of Sheffield, United Kingdom https://jeferssonalex.github.io/
