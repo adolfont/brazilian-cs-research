@@ -18,7 +18,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Emilia Mendes, Blekinge Institute of Technology, Sweden https://www.bth.se/eng/staff/emilia-mendes-eme/
 - Everton Guimaraes, PennState Great Valley, USA https://greatvalley.psu.edu/person/everton-guimaraes
 - Fabio Petrillo, École de Technologie Supérieure (ÉTS), Canada http://fabiopetrillo.com/
-- Felipe Ebert,  teacher at the Fontys University of Applied Sciences, the Netherlands https://felipeebert.github.io/
+- Felipe Ebert, Teacher at the Fontys University of Applied Sciences, the Netherlands https://felipeebert.github.io/
 - Fernando Castor, Assistant professor at the University of Twente, Enschede, The Netherlands https://sites.google.com/a/cin.ufpe.br/castor/
 - Francisco Gomes de Oliveira Neto, Chalmers/Gothenburg University, Sweden https://scholar.google.com.br/citations?user=RDgaTXMAAAAJ&hl=pt-BR https://twitter.com/fgo_neto
 - Fernanda Madeiral, Vrije Universiteit Amsterdam, The Netherlands https://fermadeiral.github.io/
@@ -105,7 +105,7 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Ellen Hidemi FUKUDA, Associate Professor, Graduate School of Informatics, Kyoto University http://www-optima.amp.i.kyoto-u.ac.jp/staff_website/ellen/
 - Fabricio Goes, Lecturer in Creative Computing, University of Leicester, UK https://le.ac.uk/people/fabricio-goes
 - Felipe Campelo, Aston University, England https://www2.aston.ac.uk/eas/staff/a-z/dr-felipe-campelo/Felipe%20Campelo
-- Gabriel Spadon, Dalhousie University, Canada https://scholar.google.com/citations?user=bfdGsGUAAAAJ
+- Gabriel Spadon, Assistant Professor, Faculty of Computer Science, Dalhousie University, Halifax - NS, Canada https://scholar.google.com/citations?user=bfdGsGUAAAAJ
 - Ivan De Oliveira Nunes, Assist. Professor of Computing Security at RIT, USA https://twitter.com/IONunes
 - J. Nelson Amaral, Professor at the Department of Computing Science - University of Alberta https://webdocs.cs.ualberta.ca/~amaral/
 - Jefferson dos Santos, Assistant Professor (Lecturer) in Computer Vision at the University of Sheffield, United Kingdom https://jeferssonalex.github.io/
@@ -119,7 +119,7 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Marcus Botacin, Visiting Assistant Professor, Computer Science & Engineering, Texas A&M University, USA https://marcusbotacin.github.io/
 - Mario Costa Sousa, University of Calgary, Canada https://pages.cpsc.ucalgary.ca/~mario/index.htm
 - Marinho Barcellos, Senior Lecturer (Computer Science), University of Waikato https://www.waikato.ac.nz/staff-profiles/people/mbarcell
-- Mirian Halfeld Ferrari Alves, Professor at the Computer Science Departement of the IUT of Université d' Orléans, France https://www.univ-orleans.fr/lifo/Members/Mirian.Halfeld/
+- Mirian Halfeld Ferrari Alves, Professor at the Computer Science Department of the IUT of Université d' Orléans, France https://www.univ-orleans.fr/lifo/Members/Mirian.Halfeld/
 - Odinaldo Rodrigues, Senior Lecturer in Computer Science, King's College London, UK https://www.kcl.ac.uk/people/odinaldo-rodrigues
 - Paulo Barreto, University of Washington Tacoma https://scholar.google.com/citations?user=kG_95CgAAAAJ&hl=en https://directory.tacoma.uw.edu/employee/pbarreto
 - Rafael Dowsley, Monash University, Australia https://dowsley.net/
@@ -127,7 +127,7 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 - Renato Figueiredo, University of FLorida, USA https://www.ece.ufl.edu/people/faculty/renato-figueiredo/
 - Ricardo da Silva Torres, Professor in Visual Computing at the Norwegian University of Science and Technology (NTNU) https://www.ntnu.edu/employees/ricardo.torres
 - Rodrigo Canaan,  Cal Poly SLO, USA https://www.rodrigocanaan.com/
-- Rodrigo Fonseca, Associate professor of Computer Science, Brown University; Principal Researcher at Microsoft Research, USA http://cs.brown.edu/~rfonseca/
+- Rodrigo Fonseca, Associate Professor of Computer Science, Brown University; Principal Researcher at Microsoft Research, USA http://cs.brown.edu/~rfonseca/
 - Sara Kalvala, Associate Professor (Reader), Department of Computer Science, University of Warwick, UK https://go.warwick.ac.uk/kalvala
 
 ## Former (or currently on leave) professors working at companies
@@ -163,7 +163,7 @@ _This is not updated._
 - Luciano Marchezan de Paula, PhD Student at Johannes Kepler Universität Linz https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/luciano-marchezan-de-paula
 - Manoel Horta Ribeiro, PhD student, EPFL, Switzerland https://manoelhortaribeiro.github.io
 - Mirela Silva - PhD candidate, University of Florida https://twitter.com/MirelaSilvaUF https://mirelasilva.github.io/
-- Pedro da Costa Abreu Júnior, PhD student at Purdue University woring with Programming Languages, Proofs and Theorem Provers https://pedroabreu0.github.io/
+- Pedro da Costa Abreu Júnior, PhD student at Purdue University working with Programming Languages, Proofs and Theorem Provers https://pedroabreu0.github.io/
 - Weslley Torres, Eindhoven University of Technology, The Netherlands https://orcid.org/0000-0003-1793-8452
 - Raquel Ouriques, Blekinge Institute of Technology | BTH · Program in Software Engineering https://www.researchgate.net/profile/Raquel-Ouriques
 - Rafael Menezes, University of Manchester, England https://www.research.manchester.ac.uk/portal/rafael.menezes-postgrad.html
