@@ -159,6 +159,7 @@ _This is not updated._
 - Hugo Sadok, PhD Student, Computer Science Department, Carnegie Mellon University https://hsadok.com/ https://twitter.com/hugosadok
 - Italo Santos, PhD Student, School of Informatics, Computing, and Cyber Systems (SICCS), Northern Arizona University, USA https://sites.google.com/view/italo-santos/home https://scholar.google.com.br/citations?view_op=list_works&hl=pt-BR&user=miVfClIAAAAJ
 - Joana M. F. da Trindade, PhD student in EECS at MIT http://joana.fyi https://twitter.com/jmftrindade
+- João P. Biazotto, University of Groningen, The Netherlands https://biazottoj.github.io/
 - Lavínia F. Paganini, Eindhoven University of Technology, The Netherlands http://lfp2.github.io/ https://scholar.google.com/citations?user=FfyAp2AAAAAJ&hl=en
 - Leonardo F. R. Ribeiro, TU Darmstadt, Processamento de Linguagem Natural e Deep Learning, https://leoribeiro.github.io/
 - Luciano Marchezan de Paula, PhD Student at Johannes Kepler Universität Linz https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/luciano-marchezan-de-paula
