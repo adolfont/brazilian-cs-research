@@ -46,6 +46,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Renata Medeiros de Carvalho, Assistant Professor at TU Eindhoven, The Netherlands https://www.tue.nl/en/research/researchers/renata-medeiros-de-carvalho
 - Ricardo Britto, Ericsson / Blekinge Institute of Technology, Sweden https://2019.icse-conferences.org/profile/ricardobritto
 - Rodrigo Spinola,  Associate Professor in the Department of Computer Science at Virginia Commonwealth University, Richmond, VA, USA https://www.rodrigospinola.com/
+- Rogério de Lemos, Senior Lecturer in Computing Science at the University of Kent, UK https://www.kent.ac.uk/computing/people/3151/de-lemos-rog%C3%A9rio
 - Silvia Abrahão, Universitat Politècnica de València, Spain https://sabrahao.wixsite.com/dsic-upv
 - Thiago Ferreira, Assistant Professor at University of Michigan-Flint, USA http://umich.edu/~thiagod
 - Thiago Rocha Silva,  Associate Professor, The Maersk Mc-Kinney Moller Institute, SDU Software Engineering, University of Southern Denmark, Denmark  [ORCID](https://orcid.org/0000-0001-8961-4663), [Scholar](https://scholar.google.com/citations?user=0pgKVMkAAAAJ&hl=en&oi=ao)
