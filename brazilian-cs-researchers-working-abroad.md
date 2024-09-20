@@ -80,7 +80,6 @@ https://www.linkedin.com/in/leticiaduboc
 -  Ronnie E. de Souza Santos, Assistant Professor at the Schulich School of Engineering, Department of Electrical and Software Engineering, University of Calgary, Canada https://scholar.google.com/citations?user=wYfnBrYAAAAJ&hl=en  https://www.linkedin.com/in/ronnie-santos/ https://twitter.com/softwaronnie https://profiles.ucalgary.ca/ronnie-de-souza-santos
 - Stenio Fernandes, Assistant Director, Data Science/AI Innovation, Bank of Canada https://www.linkedin.com/in/steniofernandes/
 - Talita Perciano, Research Scientist, Computational Research Division, Lawrence Berkeley National Laboratory, USA  https://crd.lbl.gov/departments/data-science-and-technology/data-analytics-and-visualization/staff/talita-perciano/
-- Teo de Campos, Senior Applied Scientist, Microsoft, USA https://www.microsoft.com/applied-sciences/people/teo-de-campos
 - Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
 
 ## Professors from other Computer Science Areas
@@ -137,13 +136,14 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 
 - Alexandre Nóbrega Duarte - Staff Software Engineer at Google, Austin, Texas, USA. https://www.linkedin.com/in/alexandreduarte/ https://twitter.com/realAIexandre
 - Ingrid Nunes - Product Owner at Utimaco, Germany. Previously, she was an associate professor of the Instituto de Informática at the Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brazil. https://ingridnunes.github.io/
+- Teo de Campos, Senior Applied Scientist, Microsoft, USA https://www.microsoft.com/applied-sciences/people/teo-de-campos https://www.linkedin.com/in/teofilo/
 - Walfredo Cirne - Principal Engineer at Google. Palo Alto, California, USA. https://www.linkedin.com/in/walfredo-cirne-867a382/ https://scholar.google.com/citations?user=j7cGfVkAAAAJ&hl=en 
 
 ## Brazilian Software Engineering postdocs
 
 - Breno Dantas Cruz, Postdoc at Laboratory for Software Design, Iowa State University, USA https://www.linkedin.com/in/brenodcruz/
 - Michel Albonico, Stuttgart Universität, Germany https://michel.iotrixx.com.br/
-- Fabiana Freitas Mendes, Aalto University, Finland https://research.aalto.fi/en/persons/fabiana-freitas-mendes
+- Fabiana Freitas Mendes, Aalto University, Finland https://research.aalto.fi/en/persons/fabiana-freitas-mendes // on leave from UNB
 
 
 
