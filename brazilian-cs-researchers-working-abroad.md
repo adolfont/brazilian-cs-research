@@ -142,7 +142,6 @@ Kyushu University, Japan https://lis.inf.kyushu-u.ac.jp/vargas/profile.php
 ## Brazilian Software Engineering postdocs
 
 - Breno Dantas Cruz, Postdoc at Laboratory for Software Design, Iowa State University, USA https://www.linkedin.com/in/brenodcruz/
-- Michel Albonico, Stuttgart Universität, Germany https://michel.iotrixx.com.br/
 - Fabiana Freitas Mendes, Aalto University, Finland https://research.aalto.fi/en/persons/fabiana-freitas-mendes // on leave from UNB
 
 
@@ -179,7 +178,6 @@ _This is not updated._
 _This is not updated._
 
 - Gabriela Karoline Michelon, PhD  at Johannes Kepler University Linz  https://gabrielamichelon.github.io/
-- Michel Albonico, PhD at IMT Atlantique Bretagne Pays de la Loire (2017), Nantes, France
 
 
 
