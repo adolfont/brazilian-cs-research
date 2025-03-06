@@ -27,6 +27,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Gustavo Oliva, Queen's University, Canada https://gaoliva.com/
 - Henrique Rocha, Assistant Professor, Loyola University, USA https://www.linkedin.com/in/hscrocha/
 - Igor Steinmacher, Assistant Professor, Northern Arizona University, USA https://www.igor.pro.br/
+- Jefferson Seide Molléri, Associate Professor, Kristiania University College, Oslo, Norway http://www.jeffersonmolleri.com/
 - João Araújo, Universidade Nova de Lisboa, Portugal https://docentes.fct.unl.pt/p191/
 - Joanna C. S. Santos, University of Notre Dame, USA https://joannacss.github.io/ https://twitter.com/joannacss
 - Juliana Freire is a Professor of Computer Science and Data Science at New York University, USA https://engineering.nyu.edu/faculty/juliana-freire
