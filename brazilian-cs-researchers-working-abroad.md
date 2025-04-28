@@ -48,6 +48,7 @@ https://www.linkedin.com/in/leticiaduboc
 - Ricardo Britto, Ericsson / Blekinge Institute of Technology, Sweden https://2019.icse-conferences.org/profile/ricardobritto
 - Rodrigo Spinola,  Associate Professor in the Department of Computer Science at Virginia Commonwealth University, Richmond, VA, USA https://www.rodrigospinola.com/
 - Rogério de Lemos, Senior Lecturer in Computing Science at the University of Kent, UK https://www.kent.ac.uk/computing/people/3151/de-lemos-rog%C3%A9rio
+- Ronnie E. de Souza Santos, Assistant Professor at the Schulich School of Engineering, Department of Electrical and Software Engineering, University of Calgary, Canada https://scholar.google.com/citations?user=wYfnBrYAAAAJ&hl=en  https://www.linkedin.com/in/ronnie-santos/ https://twitter.com/softwaronnie https://profiles.ucalgary.ca/ronnie-de-souza-santos
 - Silvia Abrahão, Universitat Politècnica de València, Spain https://sabrahao.wixsite.com/dsic-upv
 - Thiago Ferreira, Assistant Professor at University of Michigan-Flint, USA http://umich.edu/~thiagod
 - Thiago Rocha Silva,  Associate Professor, The Maersk Mc-Kinney Moller Institute, SDU Software Engineering, University of Southern Denmark, Denmark  [ORCID](https://orcid.org/0000-0001-8961-4663), [Scholar](https://scholar.google.com/citations?user=0pgKVMkAAAAJ&hl=en&oi=ao)
@@ -78,7 +79,6 @@ https://www.linkedin.com/in/leticiaduboc
 - Renato Paes Leme, Research Scientist at Google https://www.linkedin.com/in/renato-paes-leme-05922322/
 - Ricardo Bianchini, Distinguished Engineer, Microsoft Research  https://www.microsoft.com/en-us/research/people/ricardob/
 - Rodrigo de Salvo Braz, Research Scientist at Facebook https://www.linkedin.com/in/rodrigo-de-salvo-braz-412248/
--  Ronnie E. de Souza Santos, Assistant Professor at the Schulich School of Engineering, Department of Electrical and Software Engineering, University of Calgary, Canada https://scholar.google.com/citations?user=wYfnBrYAAAAJ&hl=en  https://www.linkedin.com/in/ronnie-santos/ https://twitter.com/softwaronnie https://profiles.ucalgary.ca/ronnie-de-souza-santos
 - Stenio Fernandes, Assistant Director, Data Science/AI Innovation, Bank of Canada https://www.linkedin.com/in/steniofernandes/
 - Talita Perciano, Research Scientist, Computational Research Division, Lawrence Berkeley National Laboratory, USA  https://crd.lbl.gov/departments/data-science-and-technology/data-analytics-and-visualization/staff/talita-perciano/
 - Valeria de Paiva, Mathematician and AI Research Scientist https://vcvpaiva.github.io/
