@@ -36,6 +36,7 @@ I have created this list/repo to list the many Brazilians working abroad. It use
 - Letícia Duboc, University Ramon Llull, Spain https://scholar.google.com/citations?hl=en&user=gXGa494AAAAJ&view_op=list_works&sortby=pubdate 
 https://www.linkedin.com/in/leticiaduboc
 - Leonardo Sousa, Carnegie Mellon University’s (CMU), Silicon Valley location, USA https://ssousaleo.github.io/
+- Leonardo Horn Iwaya, Associate Senior Lecturer in Computer Science, Karlstad University, Sweden https://www.kau.se/en/researchers/leonardo-iwaya
 - Lucas Cordeiro, University of Manchester, England, uk https://ssvlab.github.io/lucasccordeiro/
 - Luiz Fernando Capretz, Western University, Canada https://www.eng.uwo.ca/electrical/faculty/capretz_l/
 - Mairieli Wessel, Radboud University, The Netherlands https://mairieli.github.io/
